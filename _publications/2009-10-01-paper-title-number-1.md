@@ -5,6 +5,16 @@ collection: publications
 
 permalink: /publication/2009-10-01-paper-title-number-1
 
+
+date: 2022-07-07
+
+venue: '<i>Nature Biotechnology</i>'
+
+paperurl: 'http://clw224.github.io/files/paper1.pdf'
+
+citation: 'Gauglitz, J.M., West, K.A., Bittremieux, W., <b>Williams, C.L.</b>, et al. Enhancing untargeted metabolomics using metadata-based source annotation. <i>Nat Biotechnol</i> 40, 1774–1779 (2022).'
+---
+
 excerpt: 'Traditional metabolomics studies annotate approximately 10% of molecular features
 for more well-define systems, like human datasets, leaving the vast majority of features
 unannotated and thus uninterpretable. In this paper, we introduce a new workflow for untargeted
@@ -20,14 +30,6 @@ workflow. Future work aims to create similar RDD datasets, including environment
 sources, which will be important for understanding environmental chemicals and more broadly
 the exposome and their impacts on health.'
 
-date: 2022-07-07
-
-venue: '<i>Nature Biotechnology</i>'
-
-paperurl: 'http://clw224.github.io/files/paper1.pdf'
-
-citation: 'Gauglitz, J.M., West, K.A., Bittremieux, W., <b>Williams, C.L.</b>, et al. Enhancing untargeted metabolomics using metadata-based source annotation. <i>Nat Biotechnol</i> 40, 1774–1779 (2022).'
----
 
 [Download paper here](http://clw224.github.io/files/paper1.pdf)
 
