@@ -15,7 +15,8 @@ venue: '<i>General and Comparative Endocrinology</i>'
 
 paperurl: 'http://clw224.github.io/files/paper5.pdf'
 
-citation: '<b>Williams CL</b>, CL, Reyero N, Tubbs CW, Martyniuk C, Bisesi JH (2020). Microbiome-endocrine regulation:Perspectives from comparative animal models. <i>General and Comparative Endocrinology</i>, 292: 113437.'
+citation: '<b>Williams CL</b>, Reyero N, Tubbs CW, Martyniuk C, Bisesi JH (2020). Microbiome-endocrine regulation:
+Perspectives from comparative animal models. <i>General and Comparative Endocrinology</i>, 292: 113437.'
 ---
 
 [Download paper here](http://clw224.github.io/files/paper5.pdf)
