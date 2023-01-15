@@ -16,6 +16,6 @@ paperurl: 'http://clw224.github.io/files/paper4.pdf'
 citation: '<b>Williams CL</b>, Dill-McFarland KA, Vandewege M, Sparks DL, Kouba AJ, Willard ST, Suen G, Brown AE.(2016). Dietary shifts may trigger dysbiosis and mucous stools in giant pandas (<i>Ailuropoda melanoleuca</i>). <i>Frontiers in Microbiology</i>, 7:661'
 ---
 
-[Download paper here](http://clw224.github.io/files/paper2.pdf)
+[Download paper here](http://clw224.github.io/files/paper4.pdf)
 
 <i>*Awarded best microbiome paper of 2016 by Microbiome Digest.</i>
