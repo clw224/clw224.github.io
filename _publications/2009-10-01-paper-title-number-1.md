@@ -21,8 +21,6 @@ venue: 'Nature Biotechnology'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Gauglitz, J.M., West, K.A., Bittremieux, W., Williams, C.L., et al. Enhancing untargeted metabolomics using metadata-based source annotation. Nat Biotechnol 40, 1774–1779 (2022).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 1." <i>Journal 1</i>. 1(2).
