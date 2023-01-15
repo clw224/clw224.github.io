@@ -1,5 +1,5 @@
 ---
-title: "Regulation of endocrine systems by the microbiome: perspectives from comparative animal models"
+title: "Dietary shifts affect the gastrointestinal microflora of the giant panda (<i>Ailuropoda melanoleuca</i>)"
 
 collection: publications
 
@@ -19,3 +19,4 @@ citation: '<b>Williams CL</b>, Willard S, Kouba A, Sparks D, Holmes W, Falcone J
 ---
 
 [Download paper here](http://clw224.github.io/files/paper6.pdf)
+"https://www.researchgate.net/publication/224823192_Dietary_shifts_affect_the_gastrointestinal_microflora_of_the_giant_panda_Ailuropoda_melanoleuca"
