@@ -2,13 +2,13 @@
 title: "Enhancing untargeted metabolomics using metadata-based source annotation"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Human untargeted metabolomics studies annotate only ~10% of molecular features. We introduce reference-data-driven analysis to match metabolomics tandem mass spectrometry (MS/MS) data against metadata-annotated source data as a pseudo-MS/MS reference library. Applying this approach to food source data, we show that it increases MS/MS spectral usage 5.1-fold over conventional structural MS/MS library matches and allows empirical assessment of dietary patterns from untargeted data.'
 date: 2022-07-07
 venue: 'Nature Biotechnology'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://www.nature.com/articles/s41587-022-01368-1.pdf)'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Gauglitz, J.M., West, K.A., Bittremieux, W., Williams, C.L., et al. Enhancing untargeted metabolomics using metadata-based source annotation. Nat Biotechnol 40, 1774–1779 (2022)'
 ---
-Human untargeted metabolomics studies annotate only ~10% of molecular features. We introduce reference-data-driven analysis to match metabolomics tandem mass spectrometry (MS/MS) data against metadata-annotated source data as a pseudo-MS/MS reference library. Applying this approach to food source data, we show that it increases MS/MS spectral usage 5.1-fold over conventional structural MS/MS library matches and allows empirical assessment of dietary patterns from untargeted data.
+
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
