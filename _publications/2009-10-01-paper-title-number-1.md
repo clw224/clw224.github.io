@@ -18,9 +18,9 @@ sources, which will be important for understanding environmental chemicals and m
 the exposome and their impacts on health.'
 date: 2022-07-07
 venue: 'Nature Biotechnology'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://clw224.github.io/files/paper1.pdf'
 citation: 'Gauglitz, J.M., West, K.A., Bittremieux, W., Williams, C.L., et al. Enhancing untargeted metabolomics using metadata-based source annotation. Nat Biotechnol 40, 1774–1779 (2022).'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://clw224.github.io/files/paper1.pdf)
 
