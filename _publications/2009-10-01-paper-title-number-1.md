@@ -22,11 +22,11 @@ the exposome and their impacts on health.'
 
 date: 2022-07-07
 
-venue: '<i>Nature Biotechnology<i>'
+venue: '<i>Nature Biotechnology</i>'
 
 paperurl: 'http://clw224.github.io/files/paper1.pdf'
 
-citation: 'Gauglitz, J.M., West, K.A., Bittremieux, W., <b>Williams, C.L.<b>, et al. Enhancing untargeted metabolomics using metadata-based source annotation. <i>Nat Biotechnol<i> 40, 1774–1779 (2022).'
+citation: 'Gauglitz, J.M., West, K.A., Bittremieux, W., <b>Williams, C.L.</b>, et al. Enhancing untargeted metabolomics using metadata-based source annotation. <i>Nat Biotechnol</i> 40, 1774–1779 (2022).'
 ---
 
 [Download paper here](http://clw224.github.io/files/paper1.pdf)

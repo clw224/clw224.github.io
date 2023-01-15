@@ -9,11 +9,12 @@ excerpt: 'Scent originates from excretions and secretions, and its chemical comp
 
 date: 2022-09-23
 
-venue: 'Research Square -- In revision at <i>Scientific Reports<i>'
+venue: 'Research Square -- In revision at <i>Scientific Reports</i>'
 
 paperurl: 'http://clw224.github.io/files/paper2.pdf'
 
-citation: 'Clapham M, Wilson AE, <b>Williams CL<b>, Sergiel A (2022). Brown bear skin-borne secretions displayevidence of individuality and age-sex variation, in revision at <i>Scientific Reports<i>.'
+citation: 'Clapham M, Wilson AE, <b>Williams CL</b>, Sergiel A (2022). Brown bear skin-borne secretions display
+evidence of individuality and age-sex variation, in revision at <i>Scientific Reports</i>.'
 ---
 
 [Download paper here](http://clw224.github.io/files/paper2.pdf)
