@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Candace L. Williams, PhD"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Studying ecology across scales--from microbes, their molecules, and their animal hosts"
+  location         : "San Diego, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wgny0S8AAAAJ&hl=en"
-  email            :
+  email            : "cwilliams AT sdzwa (.) org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "clw224"
   google_plus      :
   keybase          :
   instagram        :
@@ -107,7 +107,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-1711-1183"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "@canda007"
