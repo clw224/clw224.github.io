@@ -20,4 +20,4 @@ of Animal Physiology and Animal Nutrition</i>, 97: 577-585.'
 
 [Download paper here](http://clw224.github.io/files/paper6.pdf)
 
-<i> find manuscript here: < "https://www.researchgate.net/publication/224823192_Dietary_shifts_affect_the_gastrointestinal_microflora_of_the_giant_panda_Ailuropoda_melanoleuca/> </i>
+<i> find manuscript here: < "https://www.researchgate.net/publication/224823192_Dietary_shifts_affect_the_gastrointestinal_microflora_of_the_giant_panda_Ailuropoda_melanoleuca/"> </i>
