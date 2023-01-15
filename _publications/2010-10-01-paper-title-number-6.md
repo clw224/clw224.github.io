@@ -3,7 +3,7 @@ title: "Dietary shifts affect the gastrointestinal microflora of the giant panda
 
 collection: publications
 
-permalink: /publication/2010-10-01-paper-title-number-5
+permalink: /publication/2010-10-01-paper-title-number-6
 
 excerpt: 'Giant pandas exhibit seasonal changes in bamboo plant part preference. The influences on the gastrointestinal tracts (GIT) microbial populations were evaluated during a 14-month period for a pair of adult male and female giant pandas housed at the Memphis Zoo using traditional culturing methods to enumerate eight bacterial groups (total anaerobes, total aerobes (TAR), streptococci (STR), total enterics, <i>Escherichia coli</i>, <i>Bacteroides </i> spp., lactobacilli and <i>Clostridium</i> spp.). Both the male and female pandas altered bamboo consumption behaviours, with a sharp decrease in leaf preference in April 2010 and returning to high levels of leaf preference from June to October, corresponding to significant shifts in the densities of TAR, STR, and lactobacilli and <i>Bacteroides</i> spp. These findings indicate seasonal changes in food preference affect the assemblages of microbial populations within the GIT of the giant panda and contribute to a better understanding of the importance of bamboo in this species' foraging strategy.'
 
