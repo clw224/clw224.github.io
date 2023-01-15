@@ -15,7 +15,7 @@ paperurl: 'http://clw224.github.io/files/paper1.pdf'
 citation: 'Gauglitz, J.M., West, K.A., Bittremieux, W., <b>Williams, C.L.</b>, et al. Enhancing untargeted metabolomics using metadata-based source annotation. <i>Nat Biotechnol</i> 40, 1774–1779 (2022).'
 ---
 
-excerpt: 'Traditional metabolomics studies annotate approximately 10% of molecular features
+'Traditional metabolomics studies annotate approximately 10% of molecular features
 for more well-define systems, like human datasets, leaving the vast majority of features
 unannotated and thus uninterpretable. In this paper, we introduce a new workflow for untargeted
 mass spectrometry analysis to bridge this gap. Using our reference data-driven (RDD) analysis,
