@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en-US"
 theme                    : jekyll-theme-minimal 
-title                    : "Candace Williams"
+title                    : "Candace L. Williams"
 slogan                   : "Microbial Ecologist"
 title_separator          : "-"
-name                     : "Candace Williams"
+name                     : "Candace L. Williams"
 description              : "This is my personal website and views are my own."
 url                      : "https://clw224.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Candace Williams, PhD"
+  name             : "Candace L. Williams, PhD"
   avatar           : "profile.png"
   bio              : "Studying ecology across scales--from microbes, their molecules, and their animal hosts"
   location         : "San Diego, CA, USA"
