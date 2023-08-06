@@ -13,7 +13,7 @@ venue: '<i>Reproduction, Fertility and Development </i>'
 
 paperurl: 'http://clw224.github.io/files/paper11.pdf'
 
-citation: 'Jacobs LE, Hammond TT, Gaffney PM, Curtis MJ, Shier DM, Durrant BS, <b>Williams CL*</b>, Calatayud NE* (2021). Using assisted reproductive technologies to assess the development of secondary sexual characteristics, ovarian senescence, and pseudohermaphroditism in an endangered frog, <i>Rana muscosa</i>, <i>Reproduction, Fertility and Development</i> 33(9) 610-614'
+citation: 'Jacobs LE, Hammond TT, Gaffney PM, Curtis MJ, Shier DM, Durrant BS, <b>Williams CL*</b>, Calatayud NE* (2021). Using assisted reproductive technologies to assess the development of secondary sexual characteristics, ovarian senescence, and pseudohermaphroditism in an endangered frog, <i>Rana muscosa</i>, <i>Reproduction, Fertility and Development</i> 33(9) 610-614. *<i>contributed equally</i>'
 ---
 
 [Download paper here](http://clw224.github.io/files/paper11.pdf)
