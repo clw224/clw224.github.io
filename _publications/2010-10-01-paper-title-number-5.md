@@ -1,5 +1,5 @@
 ---
-title: "Regulation of endocrine systems by the microbiome: perspectives from comparative animal models, <i>invited review</i>"
+title: "Regulation of endocrine systems by the microbiome: perspectives from comparative animal models"
 
 collection: publications
 
@@ -11,7 +11,7 @@ and neuropeptides in the central nervous system, which can lead to behavioral di
 
 date: 2020-06-01
 
-venue: '<i>General and Comparative Endocrinology</i>'
+venue: '<i>General and Comparative Endocrinology (invited review) </i>'
 
 paperurl: 'http://clw224.github.io/files/paper5.pdf'
 

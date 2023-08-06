@@ -1,5 +1,5 @@
 ---
-title: "Climate change is not just global warming: Multidimensional impacts on animal gut microbiota, <i>invited review</i>"
+title: "Climate change is not just global warming: Multidimensional impacts on animal gut microbiota"
 
 collection: publications
 
@@ -11,7 +11,7 @@ change with shifts in animal gut microbiota and host fitness.'
 
 date: 2023-05-16
 
-venue: '<i>Microbial Biotechnology</i>'
+venue: '<i>Microbial Biotechnology (invited review)</i>'
 
 paperurl: 'http://clw224.github.io/files/paper8.pdf'
 

@@ -1,5 +1,5 @@
 ---
-title: "Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales, <i>invited</b>"
+title: "Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales"
 
 collection: publications
 
@@ -9,7 +9,7 @@ excerpt: 'Captive wildlife are a unique set of animals, whose diverse host–mic
 
 date: 2019-04-10
 
-venue: '<i>Drug Discovery Today: Disease Models</i>'
+venue: '<i>Drug Discovery Today: Disease Models (invited review) </i>'
 
 paperurl: 'http://clw224.github.io/files/paper10.pdf'
 
