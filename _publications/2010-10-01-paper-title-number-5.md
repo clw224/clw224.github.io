@@ -1,5 +1,5 @@
 ---
-title: "Regulation of endocrine systems by the microbiome: perspectives from comparative animal models"
+title: "Regulation of endocrine systems by the microbiome: perspectives from comparative animal models, <i>invited review</i>"
 
 collection: publications
 
