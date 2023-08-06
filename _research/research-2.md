@@ -6,24 +6,24 @@ excerpt: "Since endocrine disrupting chemicals (EDC) interface with microbiota w
 
 collection: research
 ---
-The growing anthropogenic landscape
+###The growing anthropogenic landscape
 ------
 Due to increasing industrialization, the release of environmental chemicals is accelerating, with contaminants found across the globe, even in seemingly pristine habitats. Someenvironmental chemicals are synthetic, including persistent organic pollutants, pesticides, and synthetic pyrethroids, and plasticizers. Yet, some are naturally occurring, like heavy metals that are anthropogenically dispersed or phytoestrogens, whose abundance in nature may be exacerbated by our warming planet. Industrialization and urbanization have led to increased exposure to these environmental chemicals, and are in turn linked to a multitude of adverse outcomes, including but not limited to: decreased reproductive function, increased incidence of cancers, metabolic disorders, changes in immune function, and reduced bacterial diversity.
 ------
-Gut microbiota modify EDCs, altering bioavailability
+####Gut microbiota modify EDCs, altering bioavailability
 ------
 When environmental chemicals come into contact with gut microbiota following ingestion, they can directly target or modify microbiota, leading to reduced bacterial diversity and systemic effects. Additionally, microbiota can also influence exposure severity through chemical transformations that alter environmental chemical activity. The production of most phytoestrogen metabolites relies solely on members of the gastrointestinal microbiota [1]. Microbially-derived phytoestrogen metabolites, in addition to having increased potency, are also more bioavailable than their aglycone counterparts and the endogenous hormones they mimic. 
 
 <br/><img src='/images/microbe-contaminant-int.png'>
 ------
-Understanding the microbial mechanism of action remains challenging
+#####Understanding the microbial mechanism of action remains challenging
 ------
 In general, the mode of action of animal hormones and their molecular mimics falls into either activational or organizational effects. Activational effects are transient and can occur at any time in an individual’s lifetime, whereas organizational effects are permanent and occur during development. However, some species display both effects. For example, we have found both organizational and activational effects to be at play in white rhinoceros. Wild-born rhinos do not display any loss in fertility when fed a high phytoestrogen diet, but thoseborn in captivity do. Yet, when phytoestrogen consumption is reduced in captive-born animals we have observed increased fertility in some individuals, but not all. We have shown that rhino ERs are sensitive to phytoestrogens in vitro, with high ER activation by daidzein, equol, and coumestrol [2], and are less sensitive to other phytoestrogen metabolites, such as <i>o-</i>desmethylangolensin (O-DMA) and enterolignans enterolactone and enterodiol. We also evaluated phytoestrogen-associated infertility in white rhinos. Specifically, we quantified phytoestrogens in diets and faeces of rhinos, and found that, in combination, phytoestrogens detected in vivo elicited varying levels of estrogenicity across profiles <i>in vitro</i>, with onecombination of phytoestrogens exhibiting greater estrogenicity than oestradiol itself. Additionally, these phytoestrogen profiles strongly correlate to fertility. We also observed phytoestrogen transformation by the gut microbiota, as parent compounds (daidzein and coumestrol) were found in high concentrations in diets and rare in feces, but microbial metabolites, (e.g., equol, O-DMA, enterolactone, and enterodiol) were found in faecal and serum samples only [3]. In a preliminary assessment, I also found that rhino gut microbiota are metabolically active upon exposure to phytoestrogens, though which bacterial species transform these compounds is still unknown (Figure 2b). These data demonstrate that white rhinos are an informative model, as their clear phenotype aids in understanding the relationship between phytoestrogens, microbial transformation, endocrine disruption, and reproductive outcomes.
 
 <br/><img src='/images/mbio-fig.png'>
 
 ------
-Expected societal impact
+######Expected societal impact
 ------
 This work is uniquely positioned to support the United Nations Sustainable Development Goals through a One Health approach (SDGs). The proposed work will benefit multiple stakeholders. First, we must protect/prevent biodiversity loss and extinction of threatened species (SDG 15). Due to numerous anthropogenic threats, the need for captive wildlife management exists, ranging from assist-rearing offspring who are orphaned or rejected to genetic reservoirs for species facing imminent extinction. For many threatened species, captive-reared offspring destined for release are necessary to recover wild populations. My work examines microbiota and its relationship with host health at this intersection, aimed at examining how microbes relate to reintroduction success and evaluating the potential to enhance these efforts by <i>rewilding</i> microbiota as we <i>rewild</i> species into their natural habitats or better care for them in captivity. With > 42,000 species currently under threat of extinction, < 1% of these species’ microbiomes have been evaluated [4], it is imperative that we expandour scope beyond human-centric studies.
 ------
