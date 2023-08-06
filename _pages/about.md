@@ -14,7 +14,7 @@ I am a senior researcher at the San Diego Zoo Wildlife Alliance. My research int
 
 
 ------
-1. Linking host fitness to environmentally driven changes in microbiota
-2. Examining microbiomes following environmental chemical exposure
-3. Rewilding across scales–microbes as treatment
-4. Creating tools for conservation
+*  Linking host fitness to environmentally driven changes in microbiota
+* Examining microbiomes following environmental chemical exposure
+* Rewilding across scales–microbes as treatment
+* Creating tools for conservation
