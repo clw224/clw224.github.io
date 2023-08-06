@@ -1,14 +1,38 @@
 ---
 title: "How do microbiomes respond to environmental chemical exposure?"
-excerpt: "Short description of research item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Since endocrine disrupting chemicals (EDC) interface with microbiota within the gut, they can directly target microbiota leading to systemic effects, but microbiota can also influence EDC severity through chemical transformations. One gap in our knowledge is whether microbiota may mitigate the effects of EDC exposure. I integrate multiple disciplines to evaluate the response of the gut microbiota to EDCs and to identify and characterize the key microbial players in EDC conversion. To better understand the role gut microbiota play in regulating the endocrine system, I examine interactions between microbiota and EDCs and their potential to affect endocrine function, a critical step in determining which microbiota are targeted and/or which ones may offer mitigation potential.
+
+ <br/><img src='/images/GCE_Figure1.png'>"
+
 collection: research
 ---
+The growing anthropogenic landscape
+------
+Due to increasing industrialization, the release of environmental chemicals is accelerating, with contaminants found across the globe, even in seemingly pristine habitats. Someenvironmental chemicals are synthetic, including persistent organic pollutants, pesticides, and synthetic pyrethroids, and plasticizers. Yet, some are naturally occurring, like heavy metals that are anthropogenically dispersed or phytoestrogens, whose abundance in nature may be exacerbated by our warming planet. Industrialization and urbanization have led to increased exposure to these environmental chemicals, and are in turn linked to a multitude of adverse outcomes, including but not limited to: decreased reproductive function, increased incidence of cancers, metabolic disorders, changes in immune function, and reduced bacterial diversity.
+------
+Gut microbiota modify EDCs, altering bioavailability
+------
+When environmental chemicals come into contact with gut microbiota following ingestion, they can directly target or modify microbiota, leading to reduced bacterial diversity and systemic effects. Additionally, microbiota can also influence exposure severity through chemical transformations that alter environmental chemical activity. The production of most phytoestrogen metabolites relies solely on members of the gastrointestinal microbiota [1]. Microbially-derived phytoestrogen metabolites, in addition to having increased potency, are also more bioavailable than their aglycone counterparts and the endogenous hormones they mimic. 
 
-Longer excerpt .....
+<br/><img src='/images/microbe-contaminant-int.png'>
+------
+Understanding the microbial mechanism of action remains challenging
+------
+In general, the mode of action of animal hormones and their molecular mimics falls into either activational or organizational effects. Activational effects are transient and can occur at any time in an individual’s lifetime, whereas organizational effects are permanent and occur during development. However, some species display both effects. For example, we have found both organizational and activational effects to be at play in white rhinoceros. Wild-born rhinos do not display any loss in fertility when fed a high phytoestrogen diet, but thoseborn in captivity do. Yet, when phytoestrogen consumption is reduced in captive-born animals we have observed increased fertility in some individuals, but not all. We have shown that rhino ERs are sensitive to phytoestrogens in vitro, with high ER activation by daidzein, equol, and coumestrol [2], and are less sensitive to other phytoestrogen metabolites, such as <i>o-</i>desmethylangolensin (O-DMA) and enterolignans enterolactone and enterodiol. We also evaluated phytoestrogen-associated infertility in white rhinos. Specifically, we quantified phytoestrogens in diets and faeces of rhinos, and found that, in combination, phytoestrogens detected in vivo elicited varying levels of estrogenicity across profiles <i>in vitro</i>, with onecombination of phytoestrogens exhibiting greater estrogenicity than oestradiol itself. Additionally, these phytoestrogen profiles strongly correlate to fertility. We also observed phytoestrogen transformation by the gut microbiota, as parent compounds (daidzein and coumestrol) were found in high concentrations in diets and rare in feces, but microbial metabolites, (e.g., equol, O-DMA, enterolactone, and enterodiol) were found in faecal and serum samples only [3]. In a preliminary assessment, I also found that rhino gut microbiota are metabolically active upon exposure to phytoestrogens, though which bacterial species transform these compounds is still unknown (Figure 2b). These data demonstrate that white rhinos are an informative model, as their clear phenotype aids in understanding the relationship between phytoestrogens, microbial transformation, endocrine disruption, and reproductive outcomes.
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/mbio-fig.png'>
 
-* Pub1
-* Pub2
-* Pub3
-* Pub4
+------
+Expected societal impact
+------
+This work is uniquely positioned to support the United Nations Sustainable Development Goals through a One Health approach (SDGs). The proposed work will benefit multiple stakeholders. First, we must protect/prevent biodiversity loss and extinction of threatened species (SDG 15). Due to numerous anthropogenic threats, the need for captive wildlife management exists, ranging from assist-rearing offspring who are orphaned or rejected to genetic reservoirs for species facing imminent extinction. For many threatened species, captive-reared offspring destined for release are necessary to recover wild populations. My work examines microbiota and its relationship with host health at this intersection, aimed at examining how microbes relate to reintroduction success and evaluating the potential to enhance these efforts by <i>rewilding</i> microbiota as we <i>rewild</i> species into their natural habitats or better care for them in captivity. With > 42,000 species currently under threat of extinction, < 1% of these species’ microbiomes have been evaluated [4], it is imperative that we expandour scope beyond human-centric studies.
+------
+Second, the application of the proposed work promotes other sustainability efforts. One example is investigating the mitigation potential of microbiota in reducing severity of pollution/contaminants (SDG 3 & 6). In our growing anthropogenic landscape, EDC exposure is increasing, and unravelling the mechanisms that drive both negative and positive outcomes in hosts will lead to the identification of microorganisms that can mitigate host effects in vivo, or better still, be used in ecosystem wide bioremediation efforts.
+
+<br/><img src='/images/OneHealth_SDG.png'>
+
+======
+[1] <b> Williams CL/b>, GCE
+[2] mBio
+[3] ISME poster 
+[4] ddt-am
