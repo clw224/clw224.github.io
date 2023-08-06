@@ -24,11 +24,10 @@ This work is uniquely positioned to support the United Nations Sustainable Devel
 
 <br/><img src='/images/OneHealth_SDG.png'>
 
--
 <b>Works cited</b>
 
 1. <b> Williams CL</b>, Reyero N, Tubbs CW, Martyniuk C, Bisesi JH (2020). Microbiome-endocrine regulation: Perspectives from comparative animal models†. Gen. and Comp. Endocrinology, 292: 113437.
 2.  <b>Williams CL</b>, Ybarra AR, Meredith AN, Durrant BS, Tubbs CW. (2019) Gut microbiota and phytoestrogen-associated infertility in southern white rhinoceros, mBio 10(2) e00311-19.
-3. ISME poster 
+3. <b>Williams CL</b> et al. (2022) Adaptation to captivity drives rapid changes in the rhinoceros gut microbiome. International Symposium on Microbial Ecology (ISME18).
 4. <b>Williams CL</b>, Caraballo-Rodríguez AM, Allaband C, Zarrinpar A, Knight R, Gauglitz JM (2019). Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales†, Drug Discovery Today: Disease Models, 28: 105-115.
 
