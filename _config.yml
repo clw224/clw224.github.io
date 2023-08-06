@@ -86,7 +86,7 @@ author:
   avatar           : "profile.png"
   bio              : "Studying ecology across scales--from microbes, their molecules, and their animal hosts"
   location         : "San Diego, CA, USA"
-  employer         :
+  employer         : "San Diego Zoo Wildlife Alliance"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wgny0S8AAAAJ&hl=en"
   email            : "cwilliams AT sdzwa (.) org"
@@ -220,7 +220,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _projects
+  # _research
   - scope:
       path: ""
       type: portfolio
