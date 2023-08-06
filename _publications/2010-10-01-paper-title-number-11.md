@@ -9,7 +9,7 @@ excerpt: 'Anurans can display a host of intriguing sexual syndromes, including h
 
 date: 2021-06-21
 
-venue: '<i>Reproduction, Fertility and Development </i>'
+venue: '<i>Reproduction, Fertility and Development</i>'
 
 paperurl: 'http://clw224.github.io/files/paper11.pdf'
 
