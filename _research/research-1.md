@@ -1,9 +1,6 @@
 ---
 title: "How does changing environmental factors shift microbiota to alter animal fitness?"
-excerpt: "Short description of research item number 1 <br/><img src='/images/500x300.png'>
-
-
-"
+excerpt: "Short description of research item number 1 <br/><img src='/images/500x300.png'>"
 collection: research
 ---
 
