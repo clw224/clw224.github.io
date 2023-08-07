@@ -18,7 +18,7 @@ Using both targeted and untargeted metabolomics, chemical profiling of biospecim
 5. Calatayud, NE, Howell L, Upton R, Tapley B, Johnson K, Browne R, Marcec R, <b>Williams CL</b>, O’Brien D, Hobbs R, Trudeau VT, Bower D, Clulow S, Clulow J, Della Tonga G. (2023) Amphibian Assisted Reproduction and Biobanking chapter for the IUCN/ASG Amphibian ARTs and Biobanking Working Group, <i>in revision</i>.
 6. Clapham M, Wilson AE, <b>Williams CL</b>, Sergiel A (2023). Brown bear skin-borne secretions display evidence of individuality and age-sex variation, <i>Scientific Reports</i> 13: 3163.
 7. Wilson A, Sparks D, <b>Williams CL</b>, Knott K, Kouba A, Willard S, Brown A (2023) Changes in the volatile composition of giant panda urine indicate sex, reproductive status, and impending ovulation, <i>in preparation</i>.
-8. Wilson AE*, <b>Williams CL</b>†, Sparks D, Crowe O, Knott K, Willard S, Brown A (2023) Pandas, pheromones, and the pursuit of anatomical estrus cues, <i>in preparation</i>. †<i>contributed equally</i>.
+8. Wilson AE†, <b>Williams CL</b>†, Sparks D, Crowe O, Knott K, Willard S, Brown A (2023) Pandas, pheromones, and the pursuit of anatomical estrus cues, <i>in preparation</i>. †<i>contributed equally</i>.
  
 
 
