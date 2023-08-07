@@ -12,12 +12,21 @@ redirect_from:
 Education
 ======
 <b>Mississippi State University:</b>
-PhD	 Molecular Biology, minor: Statistics; August 2015
-MS	 Agricultural Life Sciences, concentration: Biochemistry; August 2011
-BS	 Microbiology, minor: Biology, magna cum laude; December 2008
+| --------         | ------ | ------------------------------------------------------------ |
+| [PhD](#)    | August 2015   | Molecular Biology, minor: Statistics  |
+| [MS](#)    | August 2011   | Agricultural Life Sciences, concentration: Biochemistry  |
+| [BS](#)     | December 2008   | Microbiology, minor: Biology, magna cum laude |
 
 Appointments & Experience
 ======
+
+<b>Mississippi State University:</b>
+| --------         | ------ | ------------------------------------------------------------ |
+| [Senior Researcher](#)    | 2022-   | Description of the item in the list                          |
+| [Researcher](#)    | 2021-2022   | Description of the item in the list                          |
+| [Visting Research Fellow](#)     | 2018-2019   | Description of the item in the list                          |
+
+
 2022-	   	Senior Researcher, Recovery Ecology, Beckman Center for Conservation Research, San Diego Zoo Wildlife Alliance
 2021-2022	Researcher, Recovery Ecology, Beckman Center for Conservation Research, San Diego Zoo Wildlife Alliance
 			Focus: Evaluating microbial drivers of animal fitness to enhance reintroduction outcomes in endangered species.
