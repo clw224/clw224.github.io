@@ -27,8 +27,8 @@ our scope beyond human-centric studies. Second, the application of the proposed 
 
 <b>Other related work</b>
 * Environmental chemical exposure and the vulture microbiome, in collaboration with Dr. Caroline Moore (SDZWA), Jasper Chao, and Dr. Mónica Medina (Pennsylvania State University).
-* Contaminants impacts and the recovery of mountain yellow-legged frogs, in collaboration with Dr. Spencer Siddons, Dr. Caroline Moore, Dr. Natalie Calatayud, and Dr. Debra Shier (all SDZWA).
-* The METSI project - Dynamics of cyanobacteria and toxin production across gradients in hydroclimate and elephant pressure on water pans in Botswana, in collaboration Dr. Lihini Aluwihare and Dr. Jeff Bowman (Scripps Institution of Oceanography, Dr. Caroline Moore (SDZWA), and Mosimanegape Jongman (University of Botswana).
+* Contaminants impacts and the recovery of mountain yellow-legged frogs, in collaboration with Dr. Spencer Siddons, Dr. Caroline Moore, Dr. Natalie Calatayud, and Dr. Debra Shier (SDZWA).
+* The METSI project - Dynamics of cyanobacteria and toxin production across gradients in hydroclimate and elephant pressure on water pans in Botswana, in collaboration Dr. Lihini Aluwihare and Dr. Jeff Bowman (Scripps Institution of Oceanography), Dr. Caroline Moore (SDZWA), and Mosimanegape Jongman (University of Botswana).
 
 <b>References</b>
 
