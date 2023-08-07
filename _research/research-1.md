@@ -1,14 +1,31 @@
 ---
-title: "How does changing environmental factors shift microbiota to alter animal fitness?"
-excerpt: "Short description of research item number 1 <br/><img src='/images/500x300.png'>"
+title: "How do changing environmental factors shift microbiota to alter animal fitness?"
+excerpt: "Organisms interact through symbioses, from harmful to benign to beneficial, driving evolution for both the host and symbiont. This coevolution occurs on different timescales, with microbiota exhibiting rapid changes (<i>e.g.</i>, host dietary changes shape gut microbiota) compared to long-term changes in animal hosts (<i>e.g.</i>, reduced fitness over generations). The gut microbiome can be shaped by both environmental factors as well as its evolutionary history. Factors such as changing diets and/or environments can alter microbiota, sometimes leading to negative outcomes. However, we lack a fundamental understanding of how microbes and their functions change over time and between generations and how these changes lead to host effects. Exploring symbiotic relationships like these is critical to elucidate mechanisms of adaptation surrounding host-symbiont homeostasis.
+
+ <br/><img src='/images/500x300.png'>"
+
 collection: research
 ---
+<b>Examining factors that shape gut microbiome dynamics</b>
+Dietary shifts can alter the gut microbiome, whether due to seasonal changes in diet composition, dietary preferences, or development. Working with giant and red pandas, we have been able to better understand how changing diets relate to disease status broadly. Our work has characterized how changing dietary preferences relate to shifting microbial communities in giant pandas [1], and how they may subsequently drive gastrointestinal disease [2]. In red pandas, we have been able to characterize the development of a healthy microbiome in cubs through adulthood [3], as well as how seasonal shifts in bamboo composition may also relate to changing microbiota [4]. Building from this work, we have also expanded beyond pandas to better understand how how seasonal shifts affect stability and gut microbiome dynamics across the tree of life, by comparing red pandas to a traditional herbivore (southern white rhinoceros) and carnivore (Sumatran tigers). How the microbiome fluctuates in an individual and species over time is particularly important for our understanding of which microbial taxa are essential for an animal host, how these communities respond to environmental change, and how the gut microbiome might play a role in host fitness. Altogether, we found that red pandas exhibit marked seasonal variation in their gut microbial communities, both experiencing high microbial community turnover as well as high variation in how individual red panda’s gut microbiota respond to seasonal changes. Conversely, while the gut microbiota of rhinoceros changes throughout the year, all individuals respond in the same way to seasonal changes. Tigers experience relatively low levels of turnover throughout the year, yet the ways in which individuals respond to seasonal transitions is more highly varied. We highlight how the differences in microbiome richness and network connectivity between these three species may affect the level of temporal stability in the gut microbiota across the year. 
 
-Longer excerpt .....
+ <br/><img src='/images/500x300.png'>"
+
+<b>Transition in and out of captivity is linked to multi-generational shifts in the microbiome that mirror animal health and fitness metrics</b>
+
+While long-term effects of captivity are observed for a number of animals, the transition between <i>in</i> and <i>ex situ</i> and subsequent impacts on fitness are not well understood. I examine microbiota extirpation and replacement in wildlife across states. Combined with host-fitness measures, these analyses provide a better understanding of the role specific microorganisms and molecules play in maintaining critical symbioses. Which microbiota are necessary for successful rewilding, and how does time in captivity affect this process? In southern white rhinos [5] ... In Pacific pocket mice [6], ..... This question also extends beyond the gut system, where our work in mountain yellow-legged frogs also explores how microbiota may be critical for their recovery in after reintroduction to the wild. Overall, I aim to understand how the loss of critical keystone microbes as animals adapt in and out of captivity may affect a broad range of animal hosts, and how short-term changes in microbiota and subsequent functional shifts may be used to predict or improve long-term animal fitness. 
 
 <br/><img src='/images/500x300.png'>
 
-* Pub1
-* Pub2
-* Pub3
-* Pub4
+<b>References</b>
+1. <b>Williams CL</b>, Willard S, Kouba A, Sparks D, Holmes W, Falcone J, Williams CH, Brown A (2012). Dietary shifts affect the gastrointestinal microflora of the giant panda (<i>Ailuropoda melanoleuca</i>). <i>Journal of Animal Physiology and Animal Nutrition</i>, 97: 577-585.
+2. <b>Williams CL*</b>, Dill-McFarland KA*, Vandewege M, Sparks DL, Kouba AJ, Willard ST, Suen G, Brown AE. (2016). Dietary shifts may trigger dysbiosis and mucous stools in giant pandas (<i>Ailuropoda melanoleuca</i>). <i>Frontiers in Microbiology</i>, 7:661.
+3. <b>Williams CL</b>, Dill-McFarland KA, Sparks DL, Kouba AJ, Willard ST, Suen G, Brown AE. (2018). Dietary changes during weaning shape the gut microbiota of red pandas (<i>Ailurus fulgens</i>). Conservation Physiology, 6(1) cox075.
+4. Williams CE, Brown AE, <b>Williams CL</b> (2023). The role of diet and host species in shaping the seasonal dynamics of the gut microbiome. In revision, <i>FEMS Microbiology Ecology</i>.
+5. <b>Williams CL</b>, Williams CE, Imminger S, Herrera MJ, Gauglitz JM, Marshall KL, Belda-Ferre P, Miller M, Buss P, Knight R, Berry D, Dorrestein PC, Tubbs CW (2023) Captivity as a tipping point driving microbially-mediated rhinoceros fitness loss, <i> in preparation </i>.
+6. <b>CL Williams</b>, Williams CE, King S, Diaz J, Reese A, Shier D (2023) Environmental change is linked to multi-generational shifts in the gut microbiome that mirror animal health and fitness metrics, <i> in preparation </i>. 
+
+
+
+
+
