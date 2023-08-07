@@ -2,7 +2,7 @@
 title: "How do microbiomes respond to environmental chemical exposure?"
 excerpt: "Since endocrine disrupting chemicals (EDC) interface with microbiota within the gut, they can directly target microbiota leading to systemic effects, but microbiota can also influence EDC severity through chemical transformations. One gap in our knowledge is whether microbiota may mitigate the effects of EDC exposure. I integrate multiple disciplines to evaluate the response of the gut microbiota to EDCs and to identify and characterize the key microbial players in EDC conversion. To better understand the role gut microbiota play in regulating the endocrine system, I examine interactions between microbiota and EDCs and their potential to affect endocrine function, a critical step in determining which microbiota are targeted and/or which ones may offer mitigation potential.
 
- <br/><img src='/images/GCE_Figure1.png'>"
+ <br/><img src='/images/GCE_Figure1.png' alt="drawing' style="width:200px;"/>
 
 collection: research
 ---
@@ -17,7 +17,7 @@ environmental chemicals are synthetic, including persistent organic pollutants, 
 In general, the mode of action of animal hormones and their molecular mimics falls into either activational or organizational effects. Activational effects are transient and can occur at any time in an individual’s lifetime, whereas organizational effects are permanent and occur during development. However, some species display both effects. For example, we have found both organizational and activational effects to be at play in white rhinoceros. Wild-born rhinos do not display any loss in fertility when fed a high phytoestrogen diet, but those
 born in captivity do. Yet, when phytoestrogen consumption is reduced in captive-born animals we have observed increased fertility in some individuals, but not all. We have shown that rhino ERs are sensitive to phytoestrogens <i>in vitro</i>, with high ER activation by daidzein, equol, and coumestrol [2], and are less sensitive to other phytoestrogen metabolites, such as <i>o-</i>desmethylangolensin (<i>O</i>-DMA) and enterolignans enterolactone and enterodiol. We also evaluated phytoestrogen-associated infertility in white rhinos. Specifically, we quantified phytoestrogens in diets and faeces of rhinos, and found that, in combination, phytoestrogens detected <i>in vivo</i> elicited varying levels of estrogenicity across profiles <i>in vitro</i>, with one
 combination of phytoestrogens exhibiting greater estrogenicity than oestradiol itself. Additionally, these phytoestrogen profiles strongly correlate to fertility. We also observed phytoestrogen transformation by the gut microbiota, as parent compounds (daidzein and coumestrol) were found in high concentrations in diets and rare in feces, but microbial metabolites, (<i>e.g.</i>, equol, <i>O-</i>DMA, enterolactone, and enterodiol) were found in faecal and serum samples only [3]. In a preliminary assessment, I also found that rhino gut microbiota are metabolically active upon exposure to phytoestrogens, though which bacterial species transform these compounds is still unknown. These data demonstrate that white rhinos are an informative model, as their clear phenotype aids in understanding the relationship between phytoestrogens, microbial transformation, endocrine disruption, and reproductive outcomes.
-<br/><img src='/images/mbio-fig.png' alt="drawing' style="width:200px;"/>
+<br/><img src='/images/mbio-fig.png'>
 
 <b>Expected societal impact</b>
 
