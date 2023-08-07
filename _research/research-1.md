@@ -14,9 +14,11 @@ Dietary shifts can alter the gut microbiome, whether due to seasonal changes in 
 
 <b>Transition in and out of captivity is linked to multi-generational shifts in the microbiome that mirror animal health and fitness metrics</b>
 
+<br/><img src='/images/500x300.png'>
+
 While long-term effects of captivity are observed for a number of animals, the transition between <i>in</i> and <i>ex situ</i> and subsequent impacts on fitness are not well understood. I examine microbiota extirpation and replacement in wildlife across states. Combined with host-fitness measures, these analyses provide a better understanding of the role specific microorganisms and molecules play in maintaining critical symbioses. Which microbiota are necessary for successful rewilding, and how does time in captivity affect this process? In southern white rhinos [5] ... In Pacific pocket mice [6], ..... This question also extends beyond the gut system, where our work in mountain yellow-legged frogs also explores how microbiota may be critical for their recovery in after reintroduction to the wild. Overall, I aim to understand how the loss of critical keystone microbes as animals adapt in and out of captivity may affect a broad range of animal hosts, and how short-term changes in microbiota and subsequent functional shifts may be used to predict or improve long-term animal fitness. 
 
-<br/><img src='/images/500x300.png'>
+
 
 <b>References</b>
 1. <b>Williams CL</b>, Willard S, Kouba A, Sparks D, Holmes W, Falcone J, Williams CH, Brown A (2012). Dietary shifts affect the gastrointestinal microflora of the giant panda (<i>Ailuropoda melanoleuca</i>). <i>Journal of Animal Physiology and Animal Nutrition</i>, 97: 577-585.
