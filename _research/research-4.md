@@ -1,5 +1,5 @@
 ---
-title: "What can chemical signatures tell us about animal physiology and health status?"
+title: "What can chemical profiles tell us about animal physiology and health status?"
 excerpt: "Short description of research item number 4 <br/><img src='/images/500x300.png'>"
 collection: research
 ---
