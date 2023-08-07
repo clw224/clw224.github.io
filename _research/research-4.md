@@ -1,5 +1,5 @@
 ---
-title: "Can applying high tech tools aid conservation efforts?"
+title: "Whatcan chemical ecology tell us about animals at the individual level?"
 excerpt: "Short description of research item number 4 <br/><img src='/images/500x300.png'>"
 collection: research
 ---
