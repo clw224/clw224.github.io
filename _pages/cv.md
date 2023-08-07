@@ -12,28 +12,26 @@ redirect_from:
 Education
 ======
 <b>Mississippi State University:</b>
-| [PhD](#)    | August 2015   | Molecular Biology, minor: Statistics  |
-| [MS](#)    | August 2011   | Agricultural Life Sciences, concentration: Biochemistry  |
-| [BS](#)     | December 2008   | Microbiology, minor: Biology, magna cum laude |
+|                    |                              |                                                                         |
+| --------------- | ----------------------- | ------------------------------------------------------------ |
+| [PhD](#)     | August 2015         | Molecular Biology, minor: Statistics  |
+| [MS](#)       | August 2011         | Agricultural Life Sciences, concentration: Biochemistry  |
+| [BS](#)       | December 2008    | Microbiology, minor: Biology, magna cum laude |
 
 Appointments & Experience
 ======
-| [Senior Researcher](#)    | 2022-   | Recovery Ecology, Beckman Center for Conservation Research, San Diego Zoo Wildlife Alliance  |
-| [Researcher](#)    | 2021-2022   | Recovery Ecology, Beckman Center for Conservation Research, San Diego Zoo Wildlife Alliance. Focus: Evaluating microbial drivers of animal fitness to enhance reintroduction outcomes in endangered species. |
-| [Visiting Research Fellow](#)     | 2018-2019   | Description of the item in the list                          |
+|                    |                              |                                                                         |
+| --------------- | ----------------------- | ------------------------------------------------------------ |
+| [<b>Senior Researcher</b>](#)   		| 2022-         | Recovery Ecology, Beckman Center for Conservation Research, San Diego Zoo Wildlife Alliance  |
+| [<b>Researcher</b>](#) 				| 2021-2022 | Recovery Ecology, Beckman Center for Conservation Research, San Diego Zoo Wildlife Alliance. <b>Focus</b>: Evaluating microbial drivers of animal fitness to enhance reintroduction outcomes in endangered species. |
+| [<b>Visiting Research Fellow</b>](#)  	| 2018-2019 | Division of Microbial Ecology, Centre of Microbiology and Environmental Systems Science, University of Vienna. <b>Focus</b>: Measuring substrate utilization by gut microbiota using isotope- and fluorescence-based labeling tools.                      |
+| [<b>Affiliater</b>](#)   				| 2017-         | Dorrestein Lab, Skaggs School of Pharmacy & Pharmaceutical Sciences, University of California, San Diego. <b>Focus</b>: Integrating untargeted metabolomics into microbial ecology programs. |
+| [<b>Postdoctoral Associate</b>](#) 	| 2015-2021 | Endocrine Unit, Reproductive Sciences, Beckman Center for Conservation Research, San Diego Zoo Wildlife Alliance. <b>Focus</b>: Investigating the role of gut microbiota in phytoestrogen-associated infertility in the white rhinoceros through microbial ecology, analytical chemistry, and molecular endocrinology. |
+| [<b>Visiting Scholar</b>](#)  			| 2013-2015 | Suen Lab, Department of Bacteriology, University of Wisconsin-Madison. <b>Focus</b>: Optimizing and conducting parallel sequencing approaches to explore gut microbiomes of obligate herbivores, giant and red pandas.           |
+| [<b>Postdoctoral Associate</b>](#) 	| 2015-2021 | Endocrine Unit, Reproductive Sciences, Beckman Center for Conservation Research, San Diego Zoo Wildlife Alliance. <b>Focus</b>: Investigating the role of gut microbiota in phytoestrogen-associated infertility in the white rhinoceros through microbial ecology, analytical chemistry, and molecular endocrinology. |
+| [<b>Visiting Scholar</b>](#)  			| 2013-2015 | Suen Lab, Department of Bacteriology, University of Wisconsin-Madison. <b>Focus</b>: Optimizing and conducting parallel sequencing approaches to explore gut microbiomes of obligate herbivores, giant and red pandas.           |
 
 
-2022-	   	Senior Researcher, Recovery Ecology, Beckman Center for Conservation Research, San Diego Zoo Wildlife Alliance
-2021-2022	Researcher, Recovery Ecology, Beckman Center for Conservation Research, San Diego Zoo Wildlife Alliance
-			Focus: Evaluating microbial drivers of animal fitness to enhance reintroduction outcomes in endangered species.
-2018-2019	Visiting Research Fellow, Division of Microbial Ecology, Centre of Microbiology and Environmental Systems Science, University of Vienna
-			Focus: Measuring substrate utilization by gut microbiota using isotope- and fluorescence-based labeling tools.
-2017-		Research Affiliate, Dorrestein Lab, Skaggs School of Pharmacy & Pharmaceutical Sciences, University of California, San Diego
-			Focus: Integrating untargeted metabolomics into microbial ecology programs.
-2015-2021 	Postdoctoral Associate, Endocrine Unit, Reproductive Sciences, Beckman Center for Conservation Research, San Diego Zoo Wildlife Alliance 
-			Focus: Investigating the role of gut microbiota in phytoestrogen-associated infertility in the white rhinoceros through microbial ecology, analytical chemistry, and molecular 			endocrinology.
-2013-2015	Visiting Scholar, Suen Lab, Department of Bacteriology, University of Wisconsin-Madison
-			Focus: Optimizing and conducting parallel sequencing approaches to explore gut microbiomes of obligate herbivores, giant and red pandas.
 2011	Visiting Scholar, Animal Ecology and Conservation Genetics Group, Institute of Zoology, Chinese Academy of Sciences.
 			Focus: Censusing wild giant panda populations through molecular ecology methods.
 2009-2015	Graduate Research Assistant, Applied Biotechnology Laboratory, Department of Biochemistry, Molecular Biology, Entomology & Plant Pathology, Mississippi State 					University 
