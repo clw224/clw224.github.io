@@ -7,7 +7,7 @@ excerpt: "Once we identify important host-microbe interactions, how can we recov
 collection: research
 ---
 
-Fecal microbiota transplants (FMTs) have been successful in improving health outcomes in some cases, but the mechanisms that modulate the efficacy of such treatments remain poorly understood [1]. Not all diseases may be treatable by transfaunation, as rewilding of whole microbiomes may introduce microorganisms that are not beneficial, but instead detrimental. Therefore, understanding the function of bacterial taxa is necessary to direct precision therapeutic rewilding efforts. To fill this gap, I have begun sampling extensively across individuals to create a biobank that can be used to develop therapeutic treatments to improve host fitness through direct rewilding of microbiota using fecal microbiota transplantation (FMT), live probiotics, or microbially-derived metabolite bio-therapeutics. Currently, I am working on three different lines of inquiry:
+Microbial biotherapeutics are revolutionizing medicine, and their use is expanding. Fecal microbiota transplants (FMTs) have been successful in improving health outcomes in some cases, but the mechanisms that modulate the efficacy of such treatments remain poorly understood [1]. Not all diseases may be treatable by transfaunation, as rewilding of whole microbiomes may introduce microorganisms that are not beneficial, but instead detrimental. Therefore, understanding the function of bacterial taxa is necessary to direct precision therapeutic rewilding efforts. To fill this gap, I have begun sampling extensively across individuals to create a biobank that can be used to develop therapeutic treatments to improve host fitness through direct rewilding of microbiota using fecal microbiota transplantation (FMT), live probiotics, or microbially-derived metabolite bio-therapeutics. Currently, I am working on three different lines of inquiry:
 
 <b> From milk to microbes: developing a milk replacer for African elephants</b>
 
@@ -27,7 +27,7 @@ Currently, I am working with veterinarians to develop FMT protocols and evaluati
  
  <br/><img src='/images/500x300.png'>
   
-Overall: I evaluate their efficacy by measuring persistence of inoculation microorganisms and alterations in overall microbiota, metabolites, host-stress, clinical symptoms, and other fitness outcomes. My work aims to develop and understand microbially-derived therapies while conserving diversity across multiple ecological scales, as macro-organisms will benefit from the conservation of the diverse microorganisms and metabolites that coexist with them.
+<b>Overall:</b> I evaluate their efficacy by measuring persistence of inoculation microorganisms and alterations in overall microbiota, metabolites, host-stress, clinical symptoms, and other fitness outcomes. My work aims to develop and understand microbially-derived therapies while conserving diversity across multiple ecological scales, as macro-organisms will benefit from the conservation of the diverse microorganisms and metabolites that coexist with them.
 
 <b>References</b>
 1. <b>Williams CL</b>, Caraballo-Rodríguez AM, Allaband C, Zarrinpar A, Knight R, Gauglitz JM (2019). Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales, <i>Drug Discovery Today: Disease Models</i>, 28: 105-115.
