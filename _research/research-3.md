@@ -12,9 +12,10 @@ Microbial biotherapeutics are revolutionizing medicine, and their use is expandi
 <b> From milk to microbes: developing a milk replacer for African elephants</b>
 
 Currently, I am working with veterinarians to develop FMT protocols and evaluating their efficacy to treat chronic GI-disease in rhinoceros [2]. Despite the common use of such therapies in livestock, their mechanism of action and long-term effects are poorly understood. 
+<p align='center'>
+	<img src='/images/Elephant_rewilding.png.png' width='550px'>
+</p> 
 
- <br/><img src='/images/500x300.png'>
- 
 <b> Fecal microbiota transplants in rhinoceros</b>
 
 Currently, I am working with veterinarians to develop FMT protocols and evaluating their efficacy to treat chronic GI-disease in rhinoceros [2]. Despite the common use of such therapies in livestock, their mechanism of action and long-term effects are poorly understood. 
