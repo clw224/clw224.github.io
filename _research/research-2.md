@@ -1,13 +1,13 @@
 ---
 title: "How do microbiomes respond to environmental chemical exposure?"
-excerpt: "Since endocrine disrupting chemicals (EDC) interface with microbiota within the gut, they can directly target microbiota leading to systemic effects, but microbiota can also influence EDC severity through chemical transformations. One gap in our knowledge is whether microbiota may mitigate the effects of EDC exposure. I integrate multiple disciplines to evaluate the response of the gut microbiota to EDCs and to identify and characterize the key microbial players in EDC conversion. To better understand the role gut microbiota play in regulating the endocrine system, I examine interactions between microbiota and EDCs and their potential to affect endocrine function, a critical step in determining which microbiota are targeted and/or which ones may offer mitigation potential.
-
-<p align='center'>
-	<img src='/images/GCE_Figure1.png' width='550px'>
-</p> "
+excerpt: "Since endocrine disrupting chemicals (EDC) interface with microbiota within the gut, they can directly target microbiota leading to systemic effects, but microbiota can also influence EDC severity through chemical transformations. One gap in our knowledge is whether microbiota may mitigate the effects of EDC exposure. I integrate multiple disciplines to evaluate the response of the gut microbiota to EDCs and to identify and characterize the key microbial players in EDC conversion. To better understand the role gut microbiota play in regulating the endocrine system, I examine interactions between microbiota and EDCs and their potential to affect endocrine function, a critical step in determining which microbiota are targeted and/or which ones may offer mitigation potential."
   
 collection: research
 ---
+<p align='center'>
+	<img src='/images/GCE_Figure1.png' width='550px'>
+</p> 
+
 <b>Gut microbiota modify environmental chemicals, altering bioavailability</b>
 
 Due to increasing industrialization, the release of environmental chemicals is accelerating, with contaminants found across the globe, even in seemingly pristine habitats. Some
