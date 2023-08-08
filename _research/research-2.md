@@ -12,7 +12,10 @@ collection: research
 
 Due to increasing industrialization, the release of environmental chemicals is accelerating, with contaminants found across the globe, even in seemingly pristine habitats. Some
 environmental chemicals are synthetic, including persistent organic pollutants, pesticides, and synthetic pyrethroids, and plasticizers. Yet, some are naturally occurring, like heavy metals that are anthropogenically dispersed or phytoestrogens, whose abundance in nature may be exacerbated by our warming planet. Industrialization and urbanization have led to increased exposure to these environmental chemicals, and are in turn linked to a multitude of adverse outcomes, including but not limited to: decreased reproductive function, increased incidence of cancers, metabolic disorders, changes in immune function, and reduced bacterial diversity. When environmental chemicals come into contact with gut microbiota following ingestion, they can directly target or modify microbiota, leading to reduced bacterial diversity and systemic effects. Additionally, microbiota can also influence exposure severity through chemical transformations that alter environmental chemical activity. The production of most phytoestrogen metabolites relies solely on members of the gastrointestinal microbiota [1]. Microbially-derived phytoestrogen metabolites, in addition to having increased potency, are also more bioavailable than their aglycone counterparts and the endogenous hormones they mimic. 
-<br/><img src='/images/microbe-contaminant-int.png'>
+
+<p align='center'>
+	<img src='/images/EDC_MoA_22Feb21.png' width='250px'>
+</p> 
 
 <b>Understanding the microbial mechanism of action remains challenging</b>
 
