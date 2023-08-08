@@ -27,7 +27,7 @@ Currently, I am working with veterinarians to develop FMT protocols and evaluati
  I am also working with the endangered mountain yellow-legged frog (<i>Rana muscosa</i>) to evaluate the efficacy of probiotic skin treatments to confer disease resistance to <i>Batrachochytrium dendrobatidis</i> (Bd) after reintroduction. In order to do so, we have begun isolating microbes from wild frogs, as well as Bd within wild populations to develop population-specific treatments prior to reintroduction, like probiotic application or immune priming [3]. 
  
 <p align='center'>
-	<img src='/images/frog.png' width='550px'>
+	<img src='/images/Frog.png' width='550px'>
 </p> 
   
 <b>Overall:</b> I evaluate their efficacy by measuring persistence of inoculation microorganisms and alterations in overall microbiota, metabolites, host-stress, clinical symptoms, and other fitness outcomes. My work aims to develop and understand microbially-derived therapies while conserving diversity across multiple ecological scales, as macro-organisms will benefit from the conservation of the diverse microorganisms and metabolites that coexist with them.
