@@ -2,7 +2,6 @@
 title: "What can chemical profiles tell us about animal physiology and health status?"
 excerpt: "Mass spectrometry is a powerful tool. Chemical profiling of different biospecimens gives insight into animals at the individual and population level. Our work using both targeted and untargeted mass spectrometry provides dietary readouts, connects infertility phenotype to phytoestrogen concentrations, as well as identifies individuals and their reproductive state using individual profiling. 
 
- <br/><img src='/images/500x300.png'>"
 collection: research
 ---
 
