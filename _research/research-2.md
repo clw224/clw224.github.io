@@ -23,7 +23,7 @@ In general, the mode of action of animal hormones and their molecular mimics fal
 born in captivity do. Yet, when phytoestrogen consumption is reduced in captive-born animals we have observed increased fertility in some individuals, but not all. We have shown that rhino ERs are sensitive to phytoestrogens <i>in vitro</i>, with high ER activation by daidzein, equol, and coumestrol [2], and are less sensitive to other phytoestrogen metabolites, such as <i>o-</i>desmethylangolensin (<i>O</i>-DMA) and enterolignans enterolactone and enterodiol. We also evaluated phytoestrogen-associated infertility in white rhinos. Specifically, we quantified phytoestrogens in diets and feces of rhinos, and found that, in combination, phytoestrogens detected <i>in vivo</i> elicited varying levels of estrogenicity across profiles <i>in vitro</i>, with one
 combination of phytoestrogens exhibiting greater estrogenicity than oestradiol itself. Additionally, these phytoestrogen profiles strongly correlate to fertility. We also observed phytoestrogen transformation by the gut microbiota, as parent compounds (daidzein and coumestrol) were found in high concentrations in diets and rare in feces, but microbial metabolites, (<i>e.g.</i>, equol, <i>O-</i>DMA, enterolactone, and enterodiol) were found in fecal and serum samples only [3]. In a preliminary assessment, I also found that rhino gut microbiota are metabolically active upon exposure to phytoestrogens, though which bacterial species transform these compounds is still unknown. These data demonstrate that white rhinos are an informative model, as their clear phenotype aids in understanding the relationship between phytoestrogens, microbial transformation, endocrine disruption, and reproductive outcomes.
 <p align='center'>
-	<img src='/images/mbio-fig.png' width='600px'>
+	<img src='/images/mbio-fig.png' width='700px'>
 </p> 
 
 <b>Expected societal impact</b>
@@ -32,7 +32,7 @@ This work is uniquely positioned to support the United Nations Sustainable Devel
 our scope beyond human-centric studies. Second, the application of the proposed work promotes other sustainability efforts. One example is investigating the mitigation potential of microbiota in reducing severity of pollution/contaminants (SDG 3 & 6). In our growing anthropogenic landscape, EDC exposure is increasing, and unravelling the mechanisms that drive both negative and positive outcomes in hosts will lead to the identification of microorganisms that can mitigate host effects <i>in vivo</i>, or better still, be used in ecosystem wide bioremediation efforts.
 
 <p align='center'>
-	<img src='/images/OneHealth_SDG.png' width='550px'>
+	<img src='/images/OneHealth_SDG.png' width='700px'>
 </p> 
 
 <b>Other related work</b>
