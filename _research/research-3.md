@@ -7,7 +7,7 @@ collection: research
 
 Microbial biotherapeutics are revolutionizing medicine, and their use is expanding. Fecal microbiota transplants (FMTs) have been successful in improving health outcomes in some cases, but the mechanisms that modulate the efficacy of such treatments remain poorly understood [1]. Not all diseases may be treatable by transfaunation, as rewilding of whole microbiomes may introduce microorganisms that are not beneficial, but instead detrimental. Therefore, understanding the function of bacterial taxa is necessary to direct precision therapeutic rewilding efforts. To fill this gap, I have begun sampling extensively across individuals to create a biobank [2] that can be used to develop therapeutic treatments to improve host fitness through direct rewilding of microbiota using fecal microbiota transplantation (FMT), live probiotics, or microbially-derived metabolite bio-therapeutics. Currently, I am working on three different lines of inquiry:
 
-<b> From milk to microbes: developing a milk replacer for African elephants</b>
+<b> From milk to microbes: enhancing assist-rearing outcomes in African elephants through a multidisciplinary approach</b>
 
 For some species of hoofstock, hand- and assist-rearing endeavors are largely successful, but for others, such as African elephants (<i>Loxodonta africana</i>),
 success is limited—especially for young animals. What drives these differences is not well understood. One knowledge gap is our understanding of how milk composition
