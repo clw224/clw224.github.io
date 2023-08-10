@@ -7,10 +7,17 @@ collection: research
 
 Using both targeted and untargeted metabolomics, chemical profiling of biospecimens provide great insight into animals at the individual and population level. These tools have been powerful at understanding dietary readouts in humans [1] and phenotypes in a broad range of species, such as rhinoceros--linking phytoestrogen-profiles to fertility status of captive-born individuals [2]. We have also used hormone monitoring in endangered amphibians to better understand animal physiology, including pseudohermaphroditism [3] as well as supporting captive breeding efforts more broadly [4,5]. In bears, we have found chemical profiles from the skin of brown bears to display evidence of individuality and age-sex variation across individuals in the wild [6]. For captive giant pandas, we found similar results in urine, as well as identifying impending ovulation [7]. Currently we are analyzing skin swabs broadly across pandas, as well as comparisons to other bear species, including brown bears and polar bears, linking microbial production of pheromones to determine estrus [8]. Altogether, using chemical profiling using mass spectrometry, we can identify physiological state of both wild and captive animals without needing invasive sampling techniques. 
 
-<br/><img src='/images/500x300.png'>
-
 <b>References</b>
-1. Gauglitz JM, West K, Bittremeiux W, <b>Williams CL</b>, Weldon KC, Panitchpakdi M, Di Ottavio F, AcevesCM, Brown E, Sikora NC, Jarmusch AK, Martino C, Tripathi A, Sayyari E, Shaffer JP, Coras R, VargasF, Goldasich LD, Schwartz T, Bryant M, Humphrey G, Johnson AJ, Spengler K, Belda-Ferre P, Diaz E,McDonald D, Zhu Q, Nguyen DS, Elijah EO, Wang M, Marotz C, Sprecher KE, Robles DV, Withrow D,Ackermann G, Herrera L, Bradford BJ, Marques LMM, Amaral JG, Silva RM, Veras FP, Cunha TM,Oliveira RDR, Louzada-Junior P, Mills RH, Galasko D, Dulai PS, Kalashnikova TI, Wittenberg C,Gonzalez DJ, Terkeltaub R, Doty MM, Kim JH, Rhee KE, Beauchamp-Walters J, Wright KP,Dominguez-Bello MG, Manary M, Oliveira MF, Boland BS, Lopes NP, Guma M, Swafford AD, DuttonRJ, Knight R, Dorrestein PC (2022). Enhancing untargeted metabolomics using metadata-basedsource annotation. Nature Biotechnology DOI:10.1038/s41587-022-01368-1.
+1. Gauglitz JM, West K, Bittremeiux W, <b>Williams CL</b>, Weldon KC, Panitchpakdi M, Di Ottavio F, Aceves
+CM, Brown E, Sikora NC, Jarmusch AK, Martino C, Tripathi A, Sayyari E, Shaffer JP, Coras R, Vargas
+F, Goldasich LD, Schwartz T, Bryant M, Humphrey G, Johnson AJ, Spengler K, Belda-Ferre P, Diaz E,
+McDonald D, Zhu Q, Nguyen DS, Elijah EO, Wang M, Marotz C, Sprecher KE, Robles DV, Withrow D,
+Ackermann G, Herrera L, Bradford BJ, Marques LMM, Amaral JG, Silva RM, Veras FP, Cunha TM,
+Oliveira RDR, Louzada-Junior P, Mills RH, Galasko D, Dulai PS, Kalashnikova TI, Wittenberg C,
+Gonzalez DJ, Terkeltaub R, Doty MM, Kim JH, Rhee KE, Beauchamp-Walters J, Wright KP,
+Dominguez-Bello MG, Manary M, Oliveira MF, Boland BS, Lopes NP, Guma M, Swafford AD, Dutton
+RJ, Knight R, Dorrestein PC (2022). Enhancing untargeted metabolomics using metadata-based
+source annotation. Nature Biotechnology DOI:10.1038/s41587-022-01368-1.
 2. <b>Williams CL</b>, Ybarra AR, Meredith AN, Durrant BS, Tubbs CW. (2019) Gut microbiota and phytoestrogen-associated infertility in southern white rhinoceros, <i>mBio</i> 10(2) e00311-19.
 3. Jacobs LE, Hammond TT, Gaffney PM, Curtis MJ, Shier DM, Durrant BS, <b>Williams CL</b>†, Calatayud NE† (2021). Using assisted reproductive technologies to assess the development of secondary sexual characteristics, ovarian senescence, and pseudohermaphroditism in an endangered frog, <i>Rana muscosa</i>, <i>Reproduction, Fertility and Development</i> 33(9) 610-614. †<i>contributed equally</i>.
 4. Calatayud NE, Jacobs LE, <b>Williams CL</b>, Steiner C, Shier D (2022). Recovering an endangered frog species using integrative reproductive technologies, <i>Theriogenology</i> 191: 141-152.

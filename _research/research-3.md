@@ -25,8 +25,6 @@ integrate cutting-edge techniques to evaluate multiple sample types to better un
 
 Currently, I am working with veterinarians to develop FMT protocols and evaluating their efficacy to treat chronic GI-disease in rhinoceros [3]. Despite the common use of such therapies in livestock, their mechanism of action and long-term effects are poorly understood. Using an age and sex-matched donor, we evaluated if FMTs shifted the microbiome, and if we observed any improvement in recipient condition. Using sequencing and untargeted metabolomics, we found that both the microbiota and metabolome shifted following FMTs, with the metabolome converging between donor and recipient after treatment, as well as the donor contributing a high proportion of bacterial taxa observed in the recipient. Despite these promising results, more work is needed to optimize timing of repeat treatments, hopefully leading to amelioration of chronic gastrointestinal imbalance. See our poster at ISME18 [here](<https://michellejherrera.weebly.com/isme-conference-2022.html>).
 
- <br/><img src='/images/500x300.png'>
-
 <b> Bacterial augmentation to prevent <i>Batrachochytrium dendrobatidis</i> infection </b>
 
  I am also working with the endangered mountain yellow-legged frog (<i>Rana muscosa</i>) to evaluate the efficacy of probiotic skin treatments to confer disease resistance to <i>Batrachochytrium dendrobatidis</i> (Bd) after reintroduction. In order to do so, we have begun isolating microbes from wild frogs, as well as Bd within wild populations to develop population-specific treatments prior to reintroduction, like probiotic application or immune priming [4]. 
