@@ -7,7 +7,7 @@ permalink: /publication/2016-05-06-panda-mucoids
 
 date: 2016-05-06
 
-venue: '<i>Frontiers in Microbiology</i>, <i>*Awarded best microbiome paper of 2016 by Microbiome Digest.</i>'
+venue: '<i>Frontiers in Microbiology</i>, (<i>Awarded best microbiome paper of 2016 by Microbiome Digest</i>)'
 
 citation: '<b>Williams CL</b>, Dill-McFarland KA, Vandewege M, Sparks DL, Kouba AJ, Willard ST, Suen G, Brown AE. (2016). Dietary shifts may trigger dysbiosis and mucous stools in giant pandas (<i>Ailuropoda melanoleuca</i>). <i>Frontiers in Microbiology</i>, 7:661.'
 ---
