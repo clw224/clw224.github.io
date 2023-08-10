@@ -19,4 +19,4 @@ Hi there 👋, I am a senior researcher at the San Diego Zoo Wildlife Alliance. 
 * Linking host fitness to environmentally driven changes in microbiota
 * Examining microbiomes following environmental chemical exposure
 * Rewilding across scales–microbes as treatment
-* Chemical ecology and animal physiology
+* Using chemical ecology to understand animal physiology
