@@ -5,12 +5,9 @@ collection: publications
 
 permalink: /publication/2009-10-01-paper-title-number-1
 
-
 date: 2022-07-07
 
 venue: '<i>Nature Biotechnology</i>'
-
-paperurl: 'https://www.nature.com/articles/s41587-022-01368-1'
 
 citation: 'Gauglitz, J.M., West, K.A., Bittremieux, W., <b>Williams, C.L.</b>, et al. Enhancing untargeted metabolomics using metadata-based source annotation. <i>Nat Biotechnol</i> 40, 1774–1779 (2022).'
 ---
