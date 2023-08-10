@@ -22,7 +22,7 @@ While long-term effects of captivity are observed for a number of animals, the t
 <b>Other related work</b>
 * A moving target: movement ecology reimagined, in collaboration with Dr. Mrinalini Erkenswick Watsa (SDZWA), Dr. Stefan Prost (Uni. of Oulu), Dr. Caroline Moore (SDZWA), Dr. Eben Broadbent (Uni. of Florida), Dr. Angelica Almeyda Zambrano (Uni. of Florida), and Gideon Erkenswick Watsa (Field Projects International). 
 * Characterizing the wild African elephant microbiome across time and space, in collaboration with Dr. Jenna Parker and Dr. George Wittemeyer (Colorado State University).
-* Understanding how the gut microbiom of a tropical ectotherm responds to thermal stress, in collaboration Claire Williams and Dr. Mike Logan (Uni. of Nevada, Reno)
+* Understanding how the gut microbiome of a tropical ectotherm responds to thermal stress, in collaboration Claire Williams and Dr. Mike Logan (Uni. of Nevada, Reno)
 
 <b>References</b>
 1. <b>Williams CL</b>, Willard S, Kouba A, Sparks D, Holmes W, Falcone J, Williams CH, Brown A (2012). Dietary shifts affect the gastrointestinal microflora of the giant panda (<i>Ailuropoda melanoleuca</i>). <i>Journal of Animal Physiology and Animal Nutrition</i>, 97: 577-585.
