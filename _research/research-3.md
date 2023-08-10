@@ -23,7 +23,7 @@ integrate cutting-edge techniques to evaluate multiple sample types to better un
 
 <b> Fecal microbiota transplants in rhinoceros</b>
 
-Currently, I am working with veterinarians to develop FMT protocols and evaluating their efficacy to treat chronic GI-disease in rhinoceros [2]. Despite the common use of such therapies in livestock, their mechanism of action and long-term effects are poorly understood. 
+Currently, I am working with veterinarians to develop FMT protocols and evaluating their efficacy to treat chronic GI-disease in rhinoceros [2]. Despite the common use of such therapies in livestock, their mechanism of action and long-term effects are poorly understood. Using an age and sex-matched donor, we evaluated if FMTs shifted the microbiome, and if we observed any improvement in recipient condition. Using sequencing and untargeted metabolomics, we found that both the microbiota and metabolome shifted following FMTs, with the metabolome converging between donor and recipient after treatment, as well as the donor contributing a high proportion of bacterial taxa observed in the recipient. Despite these promising results, more work is needed to optimize timing of repeat treatments, hopefully leading to amelioration of chronic gastrointestinal imbalance. See our poster at ISME18 [here](<https://michellejherrera.weebly.com/isme-conference-2022.html>).
 
  <br/><img src='/images/500x300.png'>
 
