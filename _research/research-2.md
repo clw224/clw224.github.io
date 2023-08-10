@@ -44,6 +44,6 @@ our scope beyond human-centric studies. Second, the application of the proposed 
 
 1. <b> Williams CL</b>, Reyero N, Tubbs CW, Martyniuk C, Bisesi JH (2020). Microbiome-endocrine regulation: Perspectives from comparative animal models. <i>Gen. and Comp. Endocrinology</i>, 292: 113437.
 2.  <b>Williams CL</b>, Ybarra AR, Meredith AN, Durrant BS, Tubbs CW. (2019) Gut microbiota and phytoestrogen-associated infertility in southern white rhinoceros, <i>mBio</i> 10(2) e00311-19.
-3. <b>Williams CL</b> et al. (2022) Adaptation to captivity drives rapid changes in the rhinoceros gut microbiome. <i>International Symposium on Microbial Ecology</i> (ISME18).
+3. <b>Williams CL</b> et al. (2022) Adaptation to captivity drives rapid changes in the rhinoceros gut microbiome. <i>International Symposium on Microbial Ecology</i> [ISME18](<https://github.com/clw224/ISME18_Lausanne_SWRadapt/blob/main/ISME18_2022_CLWilliams_Poster.jpg>).
 4. <b>Williams CL</b>, Caraballo-Rodríguez AM, Allaband C, Zarrinpar A, Knight R, Gauglitz JM (2019). Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales, <i>Drug Discovery Today: Disease Models</i>, 28: 105-115.
 
