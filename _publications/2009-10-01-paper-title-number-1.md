@@ -28,5 +28,5 @@ sources, which will be important for understanding environmental chemicals and m
 the exposome and their impacts on health.
 
 ---
-[Download paper here](https://www.nature.com/articles/s41587-022-01368-1)
+[Link to paper here](https://www.nature.com/articles/s41587-022-01368-1)
 
