@@ -10,7 +10,7 @@ date: 2022-07-07
 
 venue: '<i>Nature Biotechnology</i>'
 
-paperurl: 'http://clw224.github.io/files/paper1.pdf'
+paperurl: 'https://www.nature.com/articles/s41587-022-01368-1'
 
 citation: 'Gauglitz, J.M., West, K.A., Bittremieux, W., <b>Williams, C.L.</b>, et al. Enhancing untargeted metabolomics using metadata-based source annotation. <i>Nat Biotechnol</i> 40, 1774–1779 (2022).'
 ---
@@ -31,5 +31,5 @@ sources, which will be important for understanding environmental chemicals and m
 the exposome and their impacts on health.
 
 
-[Download paper here](http://clw224.github.io/files/paper1.pdf)
+[Download paper here](https://www.nature.com/articles/s41587-022-01368-1)
 
