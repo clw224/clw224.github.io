@@ -10,12 +10,8 @@ Microbial biotherapeutics are revolutionizing medicine, and their use is expandi
 <b> From milk to microbes: enhancing assist-rearing outcomes in African elephants through a multidisciplinary approach</b>
 
 For some species of hoofstock, hand- and assist-rearing endeavors are largely successful, but for others, such as African elephants (<i>Loxodonta africana</i>),
-success is limited—especially for young animals. What drives these differences is not well understood. One knowledge gap is our understanding of how milk composition
-changes throughout lactation in a successful species, such as the southern white rhinoceros (<i>Ceratotherium simum simum</i>), compared to elephants. Examining milk
-with longitudinal sampling will increase our knowledge of how nutrients in milk vary across lactation but also between these two species. Although this information alone would be
-valuable, we know milk is only one component in the successful development of offspring. For example, many species consume their dam’s feces soon after birth, and this has been
-observed in both elephants and rhinos. This behavior helps establish a healthy microbiome which is key to long term health. What is lacking is an understanding of how
-this microbial colonization occurs, but also how changing nutrient composition in milk may also interact with gut microbiota to lead to different health outcomes. Together, we will
+success is limited—especially for young animals. Examining milk with longitudinal sampling will increase our knowledge of how nutrients in milk vary across lactation but also of how
+microbial colonization occurs, and together how changing nutrient composition in milk may also interact with gut microbiota to lead to different health outcomes. Together, we will
 integrate cutting-edge techniques to evaluate multiple sample types to better understand the role of milk components and microbes in the healthy development of calves of both African elephants and rhinos in managed care through intensive sample collection. Our goal is to use this information to aid in the development of an elephant milk replacer that will enhance hand- and assist-rearing in managed care around the globe.
 <p align='center'>
 	<img src='/images/Elephant_rewilding.png' width='550px'>
@@ -27,13 +23,11 @@ Currently, I am working with veterinarians to develop FMT protocols and evaluati
 
 <b> Bacterial augmentation to prevent <i>Batrachochytrium dendrobatidis</i> infection </b>
 
- I am also working with the endangered mountain yellow-legged frog (<i>Rana muscosa</i>) to evaluate the efficacy of probiotic skin treatments to confer disease resistance to <i>Batrachochytrium dendrobatidis</i> (Bd) after reintroduction. In order to do so, we have begun isolating microbes from wild frogs, as well as Bd within wild populations to develop population-specific treatments prior to reintroduction, like probiotic application or immune priming [4]. 
+ I am also working with the endangered mountain yellow-legged frog (<i>Rana muscosa</i>) to evaluate the efficacy of probiotic skin treatments to confer disease resistance to <i>Batrachochytrium dendrobatidis</i> (Bd) after reintroduction. In order to do so, we have begun isolating microbes from wild frogs, as well as Bd within wild populations [4]. We will evaluate which microbiota may be Bd-inhibitory, when is best to apply them, and what their potential protective mechanisms may be through multidisciplinary approaches spanning <i>in vitro</i> culture, metagenomics and metatranscriptomics, and metabolomics. Altogether, our goal is to develop population-specific treatments prior to reintroduction, like probiotic application or immune priming.
  
 <p align='center'>
 	<img src='/images/Frog.png' width='450px'>
 </p> 
-  
-<b>Overall:</b> I evaluate their efficacy by measuring persistence of inoculation microorganisms and alterations in overall microbiota, metabolites, host-stress, clinical symptoms, and other fitness outcomes. My work aims to develop and understand microbially-derived therapies while conserving diversity across multiple ecological scales, as macro-organisms will benefit from the conservation of the diverse microorganisms and metabolites that coexist with them.
 
 <b>References</b>
 1. <b>Williams CL</b>, Caraballo-Rodríguez AM, Allaband C, Zarrinpar A, Knight R, Gauglitz JM (2019). Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales, <i>Drug Discovery Today: Disease Models</i>, 28: 105-115.
