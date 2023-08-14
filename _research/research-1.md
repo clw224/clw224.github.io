@@ -31,7 +31,7 @@ While long-term effects of captivity are observed for a number of animals, the t
 4. Williams CE, Brown AE, <b>Williams CL</b> (2023). The role of diet and host species in shaping the seasonal dynamics of the gut microbiome. In revision, <i>FEMS Microbiology Ecology</i>.
 5. Parascandola CE, Gautlitz JM, Tubbs CW, Dorrestein PC, <b>Williams CL </b> (2023) Seasonal changes in dietary phytoestrogens and their effect on the rhinoceros gut microbiome, <i>in preparation</i>.
 6. <b>Williams CL</b>, Williams CE, Imminger S, Herrera MJ, Gauglitz JM, Marshall KL, Belda-Ferre P, Miller M, Buss P, Knight R, Berry D, Dorrestein PC, Tubbs CW (2023) Captivity rapidly alters the rhinoceros gut microbiome and is linked to long-term fitness loss, <i> in preparation</i>.
-7. <b>Williams CL†</b>, Williams CE†, King S, Diaz J, Reese A, Shier D (2023) Environmental change is linked to multi-generational shifts in the gut microbiome that mirror animal health and fitness metrics, <i> in preparation</i>, †<i>contributed equally</i>.
+7. <b>Williams CL</b>†, Williams CE†, King S, Diaz J, Reese A, Shier D (2023) Environmental change is linked to multi-generational shifts in the gut microbiome that mirror animal health and fitness metrics, <i> in preparation</i>, †<i>contributed equally</i>.
 
 
 
