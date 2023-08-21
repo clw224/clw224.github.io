@@ -18,7 +18,7 @@ Oliveira RDR, Louzada-Junior P, Mills RH, Galasko D, Dulai PS, Kalashnikova TI, 
 Gonzalez DJ, Terkeltaub R, Doty MM, Kim JH, Rhee KE, Beauchamp-Walters J, Wright KP,
 Dominguez-Bello MG, Manary M, Oliveira MF, Boland BS, Lopes NP, Guma M, Swafford AD, Dutton
 RJ, Knight R, Dorrestein PC (2022). Enhancing untargeted metabolomics using metadata-based
-source annotation. <i>Nature Biotechnology DOI:10.1038/s41587-022-01368-1.'
----</i>
+source annotation. <i>Nature Biotechnology</i> DOI:10.1038/s41587-022-01368-1.'
+---
 [Link to paper here](https://www.nature.com/articles/s41587-022-01368-1)
 
