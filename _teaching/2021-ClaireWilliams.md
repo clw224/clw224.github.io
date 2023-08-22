@@ -7,9 +7,11 @@ venue: "University of Nevada-Reno"
 date: 2021-02-01
 location: "Reno, Nevada"
 ---
-![image](/images/clairenew.jpg)(width=50%){: style="float: left"}
+<p align='left'>
+	<img src='/images/clairenew.jpg' width='250px'>
 
 Claire Williams (PhD candidate) is examining how environmental change drives changes in the gut microbiome of wildlife species and how that may relate to health and fitness outcomes. Williams is also developing tools and pipelines to expedite 16S/ITS sequencing analyses. See her personal website [here](<https://claireewilliams.github.io/>).
+</p> 
 
 <b>MS Thesis in Biodiversity and Conservation, Trinity College Dublin:</b> 
 The composition and seasonal dynamics of the gut microbiome in an herbivorous carnivore - the red panda (<i>Ailurus fulgens</i>) 
