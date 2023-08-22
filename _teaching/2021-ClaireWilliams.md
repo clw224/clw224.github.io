@@ -3,7 +3,7 @@ title: "Claire Williams"
 collection: teaching
 type: "Graduate student"
 permalink: /teaching/2021-ClaireWilliams
-venue: "Ecology and Evolution, Ph.D., University of Nevada-Reno"
+venue: "University of Nevada-Reno"
 date: 2021-02-01
 location: "Reno, Nevada"
 ---
