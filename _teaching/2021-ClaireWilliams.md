@@ -8,7 +8,7 @@ date: 2021-02-01
 location: "Reno, Nevada"
 ---
 <p align='center'>
-	<img src='/images/CEW.png' width='650px'>
+	<img src='/images/CEW.png' width='750px'>
 </p> 
 
 See her personal website [here](<https://claireewilliams.github.io/>).
