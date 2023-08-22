@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Claire Williams"
 collection: teaching
 type: "Graduate student"
 permalink: /teaching/2021-ClaireWilliams
