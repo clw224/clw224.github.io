@@ -7,7 +7,7 @@ venue: "University of Nevada-Reno"
 date: 2021-02-01
 location: "Reno, Nevada"
 ---
-<p align='center'>
+<p align='left'>
 	<img src='/images/clairenew.jpg' width='250px' {: style="float: left"}>
 </p> 
 
