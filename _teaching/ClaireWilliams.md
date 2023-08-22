@@ -2,7 +2,7 @@
 title: "Claire Williams"
 collection: teaching
 type: "Graduate student"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/ClaireWilliams.md
 venue: "Biodiversity and Conservation, M.S.-Trinity College Dublin; Ecology and Evolution, Ph.D.-University of Nevada-Reno
 date: 2021
 location: "Reno, Nevada"
@@ -15,4 +15,3 @@ Claire Williams (PhD candidate) is examining how environmental change drives cha
 <b>MS Thesis:</b> The composition and seasonal dynamics of the gut microbiome in an herbivorous carnivore - the red panda (<i>Ailurus fulgens</i>) 
 ======
 <b>PhD Dissertation:</b> Microbiomes as mediators of host adaptation to rapidly changing environments
-======
