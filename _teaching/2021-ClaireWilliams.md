@@ -17,5 +17,5 @@ See her personal website [here](<https://claireewilliams.github.io/>).
 <b>MS Thesis in Biodiversity and Conservation, Trinity College Dublin:</b> 
 The composition and seasonal dynamics of the gut microbiome in an herbivorous carnivore - the red panda (<i>Ailurus fulgens</i>) 
 
-<b>PhD Dissertation in Ecology and Evolution, Ph.D., University of Nevada-Reno:</b>
+<b>PhD Dissertation in Ecology and Evolution, University of Nevada-Reno:</b>
 Microbiomes as mediators of host adaptation to rapidly changing environments
