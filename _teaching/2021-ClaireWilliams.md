@@ -18,4 +18,4 @@ See her personal website [here](<https://claireewilliams.github.io/>).
 The composition and seasonal dynamics of the gut microbiome in an herbivorous carnivore - the red panda (<i>Ailurus fulgens</i>) 
 
 <b>PhD Dissertation in Ecology and Evolution, University of Nevada-Reno:</b>
-Microbiomes as mediators of host adaptation to rapidly changing environments
+Microbiomes as mediators of host adaptation to rapidly changing environments [current].

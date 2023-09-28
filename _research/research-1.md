@@ -1,13 +1,13 @@
 ---
 title: "How do changing environmental factors shift microbiota to alter animal fitness?"
-excerpt: "Organisms interact through symbioses, from harmful to benign to beneficial, driving evolution for both the host and symbiont. This coevolution occurs on different timescales, with microbiota exhibiting rapid changes (<i>e.g.</i>, host dietary changes shape gut microbiota) compared to long-term changes in animal hosts (<i>e.g.</i>, reduced fitness over generations). The gut microbiome can be shaped by both environmental factors as well as its evolutionary history. Factors such as changing diets and/or environments can alter microbiota, sometimes leading to negative outcomes. However, we lack a fundamental understanding of how microbes and their functions change over time and between generations and how these changes lead to host effects. Exploring symbiotic relationships like these is critical to elucidate mechanisms of adaptation surrounding host-symbiont homeostasis."
+excerpt: "The gut microbiome can be shaped by both environmental factors as well as its evolutionary history. Factors such as changing diets and/or environments can alter microbiota, sometimes leading to negative outcomes. However, we lack a fundamental understanding of how microbes and their functions change over time and between generations and how these changes lead to host effects. Exploring symbiotic relationships like these is critical to elucidate mechanisms of adaptation surrounding host-symbiont homeostasis."
 
 collection: research
 ---
 
 <b>Diet and seasonality shape gut microbiome dynamics</b>
 
-Many factors can shape the gut microbiome, including diet. Our work in giant and red pandas has characterized how changing dietary preferences relate to shifting microbial communities in giant pandas [1], and how they may subsequently lead to gastrointestinal disease in captivity [2]. In red pandas, we have characterized the development of a healthy microbiome in cubs through adulthood [3], as well as how season may also relate to changing microbiota [4]. Building from this work, we have also expanded beyond pandas to better understand how how seasonal shifts affect stability and gut microbiome dynamics across the tree of life [4,5].  We highlight how the differences in microbiome richness and network connectivity between different animal species may affect the level of temporal stability in the gut microbiota across the year [5]. 
+Many factors can shape the gut microbiome, including diet. My work on giant and red pandas has characterized how changing dietary preferences relate to shifting microbial communities in pandas [1], and how they may subsequently lead to gastrointestinal disease in captivity [2]. In red pandas, we have characterized the development of a healthy microbiome in cubs through adulthood [3], as well as how season may also relate to changing microbiota [4]. Building from this work, we have also expanded beyond pandas to better understand how how seasonal shifts affect stability and gut microbiome dynamics across the tree of life [4,5].  We highlight how the differences in microbiome richness and network connectivity between different animal species may affect the level of temporal stability in the gut microbiota across the year [5]. 
 
 
 <b>Transition in and out of captivity is linked to multi-generational shifts in the microbiome that mirror animal health and fitness metrics</b>
@@ -30,8 +30,8 @@ While long-term effects of captivity are observed for a number of animals, the t
 3. <b>Williams CL</b>, Dill-McFarland KA, Sparks DL, Kouba AJ, Willard ST, Suen G, Brown AE. (2018). Dietary changes during weaning shape the gut microbiota of red pandas (<i>Ailurus fulgens</i>). <i>Conservation Physiology</i>, 6(1) cox075.
 4. Williams CE, Brown AE, <b>Williams CL</b> (2023). The role of diet and host species in shaping the seasonal dynamics of the gut microbiome. In revision, <i>FEMS Microbiology Ecology</i>.
 5. Parascandola CE, Gautlitz JM, Tubbs CW, Dorrestein PC, <b>Williams CL </b> (2023) Seasonal changes in dietary phytoestrogens and their effect on the rhinoceros gut microbiome, <i>in preparation</i>.
-6. <b>Williams CL</b>, Williams CE, Imminger S, Herrera MJ, Gauglitz JM, Marshall KL, Belda-Ferre P, Miller M, Buss P, Knight R, Berry D, Dorrestein PC, Tubbs CW (2023) Captivity rapidly alters the rhinoceros gut microbiome and is linked to long-term fitness loss, <i> in preparation</i>.
-7. <b>Williams CL</b>†, Williams CE†, King S, Diaz J, Reese A, Shier D (2023) Environmental change is linked to multi-generational shifts in the gut microbiome that mirror animal health and fitness metrics, <i> in preparation</i>, †<i>contributed equally</i>.
+6. <b>Williams CL</b>, Williams CE, Imminger S, Gauglitz JM, Herrera MJ, Marshall KL, Belda-Ferre P, Buss P, Miller M, Knight R, Berry D, Dorrestein PC, Tubbs CW (2023) Captivity rapidly alters the rhinoceros gut microbiome and is linked to long-term fitness loss, <i> in preparation</i>.
+7. <b>Williams CL</b>†, Williams CE†, King SND, Shier D (2023) Environmental change is linked to multi-generational shifts in the gut microbiome that mirror animal health and fitness metrics, <i> in preparation</i>, †<i>contributed equally</i>.
 
 
 
