@@ -19,9 +19,9 @@ While long-term effects of captivity are observed for a number of animals, the t
 </p> 
 
 <b>Other related work</b>
-* Understanding how the gut microbiome of a tropical ectotherm responds to thermal stress, in collaboration Claire Williams and Dr. Mike Logan (Uni. of Nevada, Reno)
-* A moving target: movement ecology reimagined, in collaboration with Dr. Mrinalini Erkenswick Watsa (SDZWA), Dr. Stefan Prost (Uni. of Oulu), Dr. Caroline Moore (SDZWA), Dr. Eben Broadbent (Uni. of Florida), Dr. Angelica Almeyda Zambrano (Uni. of Florida), and Gideon Erkenswick Watsa (Field Projects International). 
-* Characterizing the wild African elephant microbiome across time and space, in collaboration with Dr. Jenna Parker and Dr. George Wittemeyer (Colorado State University).
+* Understanding how the gut microbiome of a tropical ectotherm responds to thermal stress, in collaboration Claire Williams and Mike Logan (Uni. of Nevada, Reno)
+* A moving target: movement ecology reimagined, in collaboration with Mrinalini Erkenswick Watsa (SDZWA), Stefan Prost (Uni. of Oulu), Caroline Moore (SDZWA), Eben Broadbent (Uni. of Florida), Angelica Almeyda Zambrano (Uni. of Florida), and Gideon Erkenswick Watsa (Field Projects International). 
+* Characterizing the wild African elephant microbiome across time and space, in collaboration with Jenna Parker and George Wittemeyer (Colorado State University).
 
 
 <b>References</b>
