@@ -1,6 +1,6 @@
 ---
 title: "How do changing environmental factors shift microbiota to alter animal fitness?"
-excerpt: "The gut microbiome can be shaped by both environmental factors as well as its evolutionary history. Factors such as changing diets and/or environments can alter microbiota, sometimes leading to negative outcomes. However, we lack a fundamental understanding of how microbes and their functions change over time and between generations and how these changes lead to host effects. Exploring symbiotic relationships like these is critical to elucidate mechanisms of adaptation surrounding host-symbiont homeostasis."
+excerpt: "The gut microbiome can be shaped by both environmental factors as well as its host's evolutionary history. Factors such as changing diets and/or environments can alter microbiota, sometimes leading to negative outcomes. However, we lack a fundamental understanding of how microbes and their functions change over time and between generations and how these changes affects hosts. Exploring symbiotic relationships like these is critical to elucidate mechanisms of adaptation surrounding host-symbiont homeostasis."
 
 collection: research
 ---
