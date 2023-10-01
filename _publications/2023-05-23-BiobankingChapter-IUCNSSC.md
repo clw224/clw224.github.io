@@ -5,7 +5,7 @@ collection: publications
 
 permalink: /publication/2023-06-23-panda-diet-shifts
 
-date: 2012-02-23
+date: 2023-05-23
 
 venue: '<i>Amphibian Specialist Group IUCN Species Survival Commission</i>'
 
