@@ -1,21 +1,18 @@
 ---
-title: "Claire Williams"
+title: "Michelle Herrera"
 collection: teaching
 type: "Graduate student"
-permalink: /teaching/2021-ClaireWilliams
-venue: "University of Nevada-Reno"
-date: 2021-02-01
-location: "Reno, Nevada"
+permalink: /teaching/2020-Michelle Herrera
+venue: "University of California, Irvine"
+date: 2020-03-01
+location: "Irvine, California"
 ---
 <p align='center'>
-	<img src='/images/CEW.png' width='750px'>
+	<img src='/images/MJH.png' width='750px'>
 </p> 
 
-See her personal website [here](<https://claireewilliams.github.io/>).
+See her personal website [here](<https://michellejherrera.weebly.com/>).
 
 
-<b>MS Thesis in Biodiversity and Conservation, Trinity College Dublin:</b> 
-The composition and seasonal dynamics of the gut microbiome in an herbivorous carnivore - the red panda (<i>Ailurus fulgens</i>) 
-
-<b>PhD Dissertation in Ecology and Evolution, University of Nevada-Reno:</b>
-Microbiomes as mediators of host adaptation to rapidly changing environments [current].
+<b>PhD Dissertation in Biological Sciences, University of California, Irivine, Department of Ecology and Evolutionary Biology:</b>
+Molecular, Biochemical, Physiological Responses to Dietary Shifts in prickleback fishes (family Stichaeidae)
