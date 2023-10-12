@@ -3,7 +3,7 @@ title: "14. Amphibian assisted reproductive technologies and biobanking "
 
 collection: publications
 
-permalink: /publication/2023-06-23-panda-diet-shifts
+permalink: /publication/2023-06-23-IUCN-ASG-chapter
 
 date: 2023-05-23
 
