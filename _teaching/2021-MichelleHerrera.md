@@ -15,7 +15,7 @@ See her personal website [here](<https://michellejherrera.weebly.com/>).
 
 
 <b>PhD Dissertation in Biological Sciences, University of California, Irivine, Department of Ecology and Evolutionary Biology:</b>
-Molecular, Biochemical, Physiological Responses to Dietary Shifts in prickleback fishes (family Stichaeidae)
+Molecular, Biochemical, Physiological Responses to Dietary Shifts in prickleback fishes (family Stichaeidae), successfully defended Fall 2023.
 
 <b>Current projects within the Wild Microbiomes Working Group: </b>
 * Examining the potential of fecal microbiota transplants to treat gastrointestinal imbalance in greater one-horned rhinoceros
