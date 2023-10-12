@@ -21,7 +21,7 @@ The composition and seasonal dynamics of the gut microbiome in an herbivorous ca
 Microbiomes as mediators of host adaptation to rapidly changing environments [current].
 
 <b>Current projects within the Wild Microbiomes Working Group: </b>
-*  The role of diet and host species in shaping the seasonal dynamics of the gut microbiome (minor revision in <i>FEMS Microbiology Ecology</i>).
+*  The role of diet and host species in shaping the seasonal dynamics of the gut microbiome.
 * Environmental change is linked to multi-generational shifts in the Pacific pocket mouse gut microbiome that mirror animal health and fitness metrics
 * Captivity rapidly alters the rhinoceros gut microbiome and is linked to long-term fitness loss
-* What makes an animal microbiome healthy? -perspective piece in preparation for <i>ISMEJ</i>.
+* What makes an animal microbiome healthy? 
