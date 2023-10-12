@@ -19,5 +19,5 @@ Seasonal Changes in Dietary Phytoestrogens and their effect on the rhinoceros gu
 
 <b>Doctor of Veterinary Medicine Candidate, Long Island University [current] </b>
 
-<b>Current projects within Wild Microbiomes Working Group: </b>
+<b>Current projects within the Wild Microbiomes Working Group: </b>
 * Investigating how rhinoceros management strategy affects the microbiome driving changes in reproductive outcomes across institutions
