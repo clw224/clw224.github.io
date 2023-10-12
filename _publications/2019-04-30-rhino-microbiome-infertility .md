@@ -1,5 +1,5 @@
 ---
-title: "Gut microbiota and phytoestrogen-associated infertility in southern white rhinoceros"
+title: "6. Gut microbiota and phytoestrogen-associated infertility in southern white rhinoceros"
 
 collection: publications
 
