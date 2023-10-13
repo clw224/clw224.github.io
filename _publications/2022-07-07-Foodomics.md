@@ -1,5 +1,5 @@
 ---
-title: "9. Enhancing untargeted metabolomics using metadata-based source annotation"
+title: "Enhancing untargeted metabolomics using metadata-based source annotation"
 
 collection: publications
 

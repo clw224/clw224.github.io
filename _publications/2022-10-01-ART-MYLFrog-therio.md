@@ -1,5 +1,5 @@
 ---
-title: "10. Recovering an endangered frog species through integrative reproductive technologies"
+title: "Recovering an endangered frog species through integrative reproductive technologies"
 
 collection: publications
 

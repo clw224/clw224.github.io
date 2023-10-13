@@ -1,5 +1,5 @@
 ---
-title: "13. Climate change is not just global warming: Multidimensional impacts on animal gut microbiota"
+title: "Climate change is not just global warming: Multidimensional impacts on animal gut microbiota"
 
 collection: publications
 

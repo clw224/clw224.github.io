@@ -1,5 +1,5 @@
 ---
-title: "3. Dietary Shifts May Trigger Dysbiosis and Mucous Stools in Giant Pandas (<i>Ailuropoda melanoleuca</i>)"
+title: "Dietary Shifts May Trigger Dysbiosis and Mucous Stools in Giant Pandas (<i>Ailuropoda melanoleuca</i>)"
 
 collection: publications
 

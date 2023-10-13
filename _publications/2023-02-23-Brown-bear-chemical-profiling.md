@@ -1,5 +1,5 @@
 ---
-title: "11. Brown bear skin-borne secretions display evidence of individuality and age-sex variation"
+title: "Brown bear skin-borne secretions display evidence of individuality and age-sex variation"
 
 collection: publications
 

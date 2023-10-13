@@ -1,5 +1,5 @@
 ---
-title: "8. Using assisted reproductive technologies to assess the development of secondary sexual characteristics, ovarian senescence, and pseudohermaphroditism in an endangered frog, <i>Rana muscosa</i>"
+title: "Using assisted reproductive technologies to assess the development of secondary sexual characteristics, ovarian senescence, and pseudohermaphroditism in an endangered frog, <i>Rana muscosa</i>"
 
 collection: publications
 

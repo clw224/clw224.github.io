@@ -1,5 +1,5 @@
 ---
-title: "4. Dietary changes during weaning shape the gut microbiota of red pandas (<i>Ailurus fulgens</i>)"
+title: "Dietary changes during weaning shape the gut microbiota of red pandas (<i>Ailurus fulgens</i>)"
 
 collection: publications
 

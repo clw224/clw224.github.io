@@ -1,5 +1,5 @@
 ---
-title: "1. Dietary shifts affect the gastrointestinal microflora of the giant panda (<i>Ailuropoda melanoleuca</i>)"
+title: "Dietary shifts affect the gastrointestinal microflora of the giant panda (<i>Ailuropoda melanoleuca</i>)"
 
 collection: publications
 
