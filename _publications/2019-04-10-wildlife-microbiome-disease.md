@@ -1,5 +1,5 @@
 ---
-title: "Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales"
+title: "5) Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales"
 
 collection: publications
 

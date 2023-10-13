@@ -1,5 +1,5 @@
 ---
-title: "A hormone priming regimen and hibernation affect oviposition in the boreal toad (<i>Anaxyrus boreas boreas</i>)"
+title: "2) A hormone priming regimen and hibernation affect oviposition in the boreal toad (<i>Anaxyrus boreas boreas</i>)"
 
 collection: publications
 
