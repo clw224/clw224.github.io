@@ -9,7 +9,7 @@ date: 2019-04-30
 
 venue: '<i>mBio</i>'
 
-'<b>Williams CL</b>, Ybarra AR, Meredith AN, Durrant BS, Tubbs CW. (2019) Gut microbiota and
+citation: '<b>Williams CL</b>, Ybarra AR, Meredith AN, Durrant BS, Tubbs CW. (2019) Gut microbiota and
 phytoestrogen-associated infertility in southern white rhinoceros, <i>mBio</i> 10(2) e00311-19.'
 ---
 

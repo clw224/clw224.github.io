@@ -9,7 +9,7 @@ date: 2022-07-07
 
 venue: '<i>Nature Biotechnology</i>'
 
-'Gauglitz, JM, West, KA, Bittremieux, W, <b>Williams, CL</b>, Weldon KC, Panitchpakdi M, Di Ottavio F, Aceves
+citation: 'Gauglitz, JM, West, KA, Bittremieux, W, <b>Williams, CL</b>, Weldon KC, Panitchpakdi M, Di Ottavio F, Aceves
 CM, Brown E, Sikora NC, Jarmusch AK, Martino C, Tripathi A, Sayyari E, Shaffer JP, Coras R, Vargas
 F, Goldasich LD, Schwartz T, Bryant M, Humphrey G, Johnson AJ, Spengler K, Belda-Ferre P, Diaz E,
 McDonald D, Zhu Q, Nguyen DS, Elijah EO, Wang M, Marotz C, Sprecher KE, Robles DV, Withrow D,
