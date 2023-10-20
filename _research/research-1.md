@@ -22,7 +22,7 @@ In Pacific pocket mice, we characterized how mice and their microbiomes respond 
 This question also extends beyond the gut system, where our work in mountain yellow-legged frogs also explores how microbiota may be critical for their recovery after reintroduction to the wild. Overall, I aim to understand how the loss of critical keystone microbes as animals adapt to novel conditions and how short-term changes in microbiota and subsequent functional shifts may be used to predict or improve long-term animal fitness. 
 
 <p align='center'>
-	<img src='/images/PPM_stablestate.png' width='550px'>
+	<img src='/images/PPM_stablestate.png' width='500px'>
 </p> 
 
 <b>Other related work</b>
