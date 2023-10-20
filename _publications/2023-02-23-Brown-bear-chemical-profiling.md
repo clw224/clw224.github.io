@@ -13,5 +13,5 @@ citation: 'Clapham M, Wilson AE, <b>Williams CL</b>, Sergiel A (2023). Brown bea
 evidence of individuality and age-sex variation, <i>Scientific Reports</i>, 13, Article number: 3163.'
 ---
 
-[Link to paper here](https://www.nature.com/articles/s41598-023-29479-y)
+Link to paper [here](https://www.nature.com/articles/s41598-023-29479-y)
 

@@ -13,5 +13,5 @@ citation: '<b>Williams CL</b>, Ybarra AR, Meredith AN, Durrant BS, Tubbs CW. (20
 phytoestrogen-associated infertility in southern white rhinoceros, <i>mBio</i> 10(2) e00311-19.'
 ---
 
-[Link to paper here](https://journals.asm.org/doi/10.1128/mbio.00311-19)
+Link to paper [here](https://journals.asm.org/doi/10.1128/mbio.00311-19)
 
