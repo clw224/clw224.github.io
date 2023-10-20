@@ -1,7 +1,7 @@
 ---
 title: 'Wild Microbiomes Working Group goes to ISME18"
 date: 2022-08-18
-permalink: /posts/2022-08-blog-post-1/
+permalink: /posts/2022/08/blog-post-1/
 tags:
   - ISME18
 ---
