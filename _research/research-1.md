@@ -12,10 +12,17 @@ Many factors can shape the gut microbiome, including diet. My work on giant and 
 
 <b>Transition in and out of captivity is linked to multi-generational shifts in the microbiome that mirror animal health and fitness metrics</b>
 
-While long-term effects of captivity are observed for a number of animals, the transition between <i>in</i> and <i>ex situ</i> and subsequent impacts on fitness are not well understood. In southern white rhinos, we found that microbial extirpation and replacement occurs rapidly after animals enter captivity and alters microbiome activity, as observed through sequencing, targeted and untargeted metabolomics and Raman microspectroscopy [6]. In Pacific pocket mice, we characterized how mice and their microbiomes respond to the environmental pressures of captivity across five generations, finding the microbiome assumes a novel, stable conformation after two to three generations in captivity, and that the flux observed in microbial communities mirrors the flux of mouse weight and reproductive metrics [7]. This question also extends beyond the gut system, where our work in mountain yellow-legged frogs also explores how microbiota may be critical for their recovery after reintroduction to the wild. Overall, I aim to understand how the loss of critical keystone microbes as animals adapt to novel conditions and how short-term changes in microbiota and subsequent functional shifts may be used to predict or improve long-term animal fitness. See our poster at ISME18 [here](<https://github.com/clw224/ISME18_Lausanne_SWRadapt/blob/main/ISME18_2022_CLWilliams_Poster.jpg>). 
+While long-term effects of captivity are observed for a number of animals, the transition between <i>in</i> and <i>ex situ</i> and subsequent impacts on fitness are not well understood. In southern white rhinos, we found that microbial extirpation and replacement occurs rapidly after animals enter captivity and alters microbiome activity, as observed through sequencing, targeted and untargeted metabolomics and Raman microspectroscopy [6]. See our poster at ISME18 [here](<https://github.com/clw224/ISME18_Lausanne_SWRadapt/blob/main/ISME18_2022_CLWilliams_Poster.jpg>). 
 
 <p align='center'>
 	<img src='/images/ISME18_2022_CLWilliams_reduced_teaser.png' width='650px'>
+</p> 
+
+In Pacific pocket mice, we characterized how mice and their microbiomes respond to the environmental pressures of captivity across five generations, finding the microbiome assumes a novel, stable conformation after two to three generations in captivity, and that the flux observed in microbial communities mirrors the flux of mouse weight and reproductive metrics [7]. 
+This question also extends beyond the gut system, where our work in mountain yellow-legged frogs also explores how microbiota may be critical for their recovery after reintroduction to the wild. Overall, I aim to understand how the loss of critical keystone microbes as animals adapt to novel conditions and how short-term changes in microbiota and subsequent functional shifts may be used to predict or improve long-term animal fitness. 
+
+<p align='center'>
+	<img src='/images/PPM_stablestate.png' width='550px'>
 </p> 
 
 <b>Other related work</b>
