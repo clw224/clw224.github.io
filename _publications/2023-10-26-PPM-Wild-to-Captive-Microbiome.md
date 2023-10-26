@@ -5,7 +5,7 @@ collection: publications
 
 permalink: /publication/2023-10-25-PPM-Wild-to-Captive-Microbiome
 
-date: 2023-10-15
+date: 2023-10-26
 
 venue: '<i>bioarxiv</i>'
 

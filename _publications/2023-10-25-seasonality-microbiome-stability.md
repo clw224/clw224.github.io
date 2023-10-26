@@ -5,7 +5,7 @@ collection: publications
 
 permalink: /publication/2023-10-27-seasonality-microbiome-stability
 
-date: 2023-10-27
+date: 2023-10-25
 
 venue: '<i>FEMS Microbiology Ecology</i>'
 
