@@ -35,10 +35,10 @@ This question also extends beyond the gut system, where our work in mountain yel
 1. <b>Williams CL</b>, Willard S, Kouba A, Sparks D, Holmes W, Falcone J, Williams CH, Brown A (2012). Dietary shifts affect the gastrointestinal microflora of the giant panda (<i>Ailuropoda melanoleuca</i>). <i>Journal of Animal Physiology and Animal Nutrition</i>, 97: 577-585.
 2. <b>Williams CL</b>, Dill-McFarland KA, Vandewege M, Sparks DL, Kouba AJ, Willard ST, Suen G, Brown AE. (2016). Dietary shifts may trigger dysbiosis and mucous stools in giant pandas (<i>Ailuropoda melanoleuca</i>). <i>Frontiers in Microbiology</i>, 7:661.
 3. <b>Williams CL</b>, Dill-McFarland KA, Sparks DL, Kouba AJ, Willard ST, Suen G, Brown AE. (2018). Dietary changes during weaning shape the gut microbiota of red pandas (<i>Ailurus fulgens</i>). <i>Conservation Physiology</i>, 6(1) cox075.
-4. Williams CE, Brown AE, <b>Williams CL</b> (2023). The role of diet and host species in shaping the seasonal dynamics of the gut microbiome. In revision, <i>FEMS Microbiology Ecology</i>.
+4. Williams CE, Brown AE, <b>Williams CL</b> (2023). The role of diet and host species in shaping the seasonal dynamics of the gut microbiome. Minor revision, <i>FEMS Microbiology Ecology</i>.
 5. Parascandola CE, Gautlitz JM, Tubbs CW, Dorrestein PC, <b>Williams CL </b> (2023) Seasonal changes in dietary phytoestrogens and their effect on the rhinoceros gut microbiome, <i>in preparation</i>.
 6. <b>Williams CL</b>, Williams CE, Imminger S, Gauglitz JM, Herrera MJ, Marshall KL, Belda-Ferre P, Buss P, Miller M, Knight R, Berry D, Dorrestein PC, Tubbs CW (2023) Captivity rapidly alters the rhinoceros gut microbiome and is linked to long-term fitness loss, <i> in preparation</i>.
-7. <b>Williams CL</b>†, Williams CE†, King SND, Shier D (2023) Environmental change is linked to multi-generational shifts in the gut microbiome that mirror animal health and fitness metrics, <i> in preparation</i>, †<i>contributed equally</i>.
+7. <b>Williams CL</b>†, Williams CE†, King SND, Shier D (2023) Environmental change is linked to multi-generational shifts in the gut microbiome that mirror animal health and fitness metrics, submitted to <i>PNAS</i>, see preprint on <i>biorxiv</i> DOI: 10.1101/2023.10.24.563854v1 .†<i>contributed equally</i>.
 
 
 
