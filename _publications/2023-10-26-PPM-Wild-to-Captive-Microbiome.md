@@ -1,5 +1,5 @@
 ---
-title: "15) Environmental change drives multi-generational shifts in the gut microbiome that mirror changing animal fitness"
+title: "14) Environmental change drives multi-generational shifts in the gut microbiome that mirror changing animal fitness"
 
 collection: publications
 
