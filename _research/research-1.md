@@ -26,7 +26,7 @@ This question also extends beyond the gut system, where our work in mountain yel
 </p> 
 
 <b>Other related work</b>
-* Understanding how the gut microbiome of a tropical ectotherm responds to thermal stress, in collaboration with Claire Williams and Mike Logan (Uni. of Nevada, Reno)
+* Understanding how the gut microbiome of a tropical ectotherm responds to thermal stress, in collaboration with Claire Williams and Mike Logan (Uni. of Nevada, Reno) 
 * A moving target: movement ecology reimagined, in collaboration with Mrinalini Erkenswick Watsa (SDZWA), Stefan Prost (Uni. of Oulu), Caroline Moore (SDZWA), Eben Broadbent (Uni. of Florida), Angelica Almeyda Zambrano (Uni. of Florida), and Gideon Erkenswick (Field Projects International). 
 
 
