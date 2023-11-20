@@ -23,7 +23,7 @@ I am working with veterinarians to develop FMT protocols and evaluating their ef
 
 <b> Bacterial augmentation to prevent <i>Batrachochytrium dendrobatidis</i> infection </b>
 
- I am also working with the endangered mountain yellow-legged frog (<i>Rana muscosa</i>) to evaluate the efficacy of probiotic skin treatments to confer disease resistance to <i>Batrachochytrium dendrobatidis</i> (Bd) after reintroduction. In order to do so, we have begun isolating bacteria from wild frogs, as well as Bd within wild populations [4]. We will evaluate which microbiota may be Bd-inhibitory, when is best to apply them, and what their potential protective mechanisms may be through multidisciplinary approaches spanning <i>in vitro</i> culture, metagenomics and metatranscriptomics, and metabolomics. Altogether, our goal is to develop population-specific treatments prior to reintroduction, like probiotic application or immune priming.
+ I am also working with the endangered mountain yellow-legged frog (<i>Rana muscosa</i>) to evaluate the efficacy of probiotic skin treatments to confer disease resistance to <i>Batrachochytrium dendrobatidis</i> (Bd) after reintroduction. In order to do so, we have begun isolating bacteria from wild frogs, as well as Bd within wild populations [5]. We will evaluate which microbiota may be Bd-inhibitory, when is best to apply them, and what their potential protective mechanisms may be through multidisciplinary approaches spanning <i>in vitro</i> culture, metagenomics and metatranscriptomics, and metabolomics. Altogether, our goal is to develop population-specific treatments prior to reintroduction, like probiotic application or immune priming.
  
 <p align='center'>
 	<img src='/images/Frog.png' width='450px'>
@@ -32,6 +32,6 @@ I am working with veterinarians to develop FMT protocols and evaluating their ef
 <b>References</b>
 1. <b>Williams CL</b>, Caraballo-Rodríguez AM, Allaband C, Zarrinpar A, Knight R, Gauglitz JM (2019). Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales, <i>Drug Discovery Today: Disease Models</i>, 28: 105-115.
 2. Williams CE, Hammer T, <b>Williams CL</b> (2023) What makes an animal microbiome healthy? In preparation for <i>ISME J</i>. 
-Calatayud, NE, Bragg J, Bruford M, van der Merwe, Brown A, <b>Williams CL</b>, Sole C, Hvilsom C, Steiner C, Russo IR (2023). IUCN Species Survival Commission Biobanking Guidelines.
-3. Herrera MJ, Gauglitz JM, Kerr K, Marshall KL, Weldon K, Dorrestein PC, Singleton C, <b>Williams CL</b> (2023) Examining the potential of fecal microbiota transplants to treat gastrointestinal imbalance in greater one-horned rhinoceros, <i>in preparation</i>.
-4. Siddons S, <b>Williams CL</b>, Payne T, Hammond T, Shier D. Isolation and culturing of <i>Batrachochytrium dendrobatidis</i> for the conservation of the endangered mountain yellow-legged frog, <i>Rana muscosa</i>. Amphibian Disease meeting (virtual), November 2022.
+3. Calatayud, NE, Bragg J, Bruford M, van der Merwe, Brown A, <b>Williams CL</b>, Sole C, Hvilsom C, Steiner C, Russo IR (2023). IUCN Species Survival Commission Biobanking Guidelines.
+4. Herrera MJ, Gauglitz JM, Kerr K, Marshall KL, Weldon K, Dorrestein PC, Singleton C, <b>Williams CL</b> (2023) Examining the potential of fecal microbiota transplants to treat gastrointestinal imbalance in greater one-horned rhinoceros, <i>in preparation</i>.
+5. Siddons S, <b>Williams CL</b>, Payne T, Hammond T, Shier D. Isolation and culturing of <i>Batrachochytrium dendrobatidis</i> for the conservation of the endangered mountain yellow-legged frog, <i>Rana muscosa</i>. Amphibian Disease meeting (virtual), November 2022.
