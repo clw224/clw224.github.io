@@ -12,4 +12,4 @@ venue: '<i>Drug Discovery Today: Disease Models (invited review)</i>'
 citation: '<b>Williams CL</b>, Caraballo-Rodríguez AM, Allaband C, Zarrinpar A, Knight R, Gauglitz JM (2019). Wildlife-microbiome interactions and disease: exploring opportunities for disease mitigation across ecological scales, <i>Drug Discovery Today: Disease Models</i>, 28: 105-115.'
 ---
 
-[ink to paper [here](https://doi.org/10.1016/j.ddmod.2019.08.012)
+Link to paper [here](https://doi.org/10.1016/j.ddmod.2019.08.012)
