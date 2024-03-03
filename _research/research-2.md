@@ -35,7 +35,7 @@ This work is uniquely positioned to support the United Nations Sustainable Devel
 <b>Other related work</b>
 * Environmental chemical exposure and the vulture microbiome, in collaboration with Caroline Moore (SDZWA), Jasper Chao, and Mónica Medina (Pennsylvania State University).
 * Contaminant impacts and the recovery of mountain yellow-legged frogs, in collaboration with Spencer Siddons, Caroline Moore, Natalie Calatayud, and Debra Shier (SDZWA).
-* The METSI project - Dynamics of cyanobacteria and toxin production across gradients in hydroclimate and elephant pressure on water pans in Botswana, in collaboration with Lihini Aluwihare and Jeff Bowman (Scripps Institution of Oceanography), Caroline Moore (SDZWA), and Mosimanegape Jongman (Uni. of Botswana).
+* The METSI project - Dynamics of cyanobacteria and toxin production across gradients in hydroclimate and elephant pressure on water pans in Botswana, in collaboration with Lihini Aluwihare, Jeff Bowman, and Kenosi Kebabonye (Scripps Institution of Oceanography), Caroline Moore (SDZWA), and Mosimanegape Jongman (Uni. of Botswana).
 
 <b>References</b>
 
