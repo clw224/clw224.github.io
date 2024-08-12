@@ -1,5 +1,5 @@
 ---
-title: "15) The role of diet and host species in shaping the seasonal dynamics of the gut microbiome"
+title: "14) The role of diet and host species in shaping the seasonal dynamics of the gut microbiome"
 
 collection: publications
 
