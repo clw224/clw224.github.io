@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there 👋, I am a senior researcher at the San Diego Zoo Wildlife Alliance. My research integrates microbial ecology, analytical chemistry, and molecular endocrinology to unravel the mechanisms that drive host-microbe interactions while improving overall welfare and reintroduction success of threatened species. <b>Views are my own. </b>
+Hi there 👋, I am a microbiome scientist. My work integrates microbial ecology, analytical chemistry, and molecular endocrinology to unravel the mechanisms that drive host-microbe interactions. <b>Views are my own. </b>
 
 ![](images/venn+tree.png)
 ======
